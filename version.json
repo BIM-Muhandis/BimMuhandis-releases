@@ -1,8 +1,8 @@
 {
-  "version": "0.99.103",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.103.exe",
-  "sha256": "4664d65ac2d4dc786603508784128cf63f6a523be33430935de6f7da837bf425",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.103.zip",
-  "zip_sha256": "a2022662188d5d3a35346926170cb73160fe52318c459267bb13443ba74a52f7",
-  "notes": "0.99.103: Kolonna armaturasida «svarka» ulanishi — накладка Ø=d, 10,5d, tirqish 0,5d; burchakda L shaklda ichkariga."
+  "version": "0.99.104",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.104.exe",
+  "sha256": "6b32c8a7958ebcd33b673920233fd2901e6b9d6bd222a60f5e8a48ab12dfdaaa",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.104.zip",
+  "zip_sha256": "9a8f003d7bc89448d8fbbaae3a30d6912202b763c3aa0d100256994fd2adf9a6",
+  "notes": "0.99.104: Kolonna oynasida xomut qadamlari o'lcham zanjiri bilan ko'rsatiladi (zich/o'rta, soni va uzunligi)."
 }
