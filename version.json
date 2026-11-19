@@ -1,8 +1,8 @@
 {
-  "version": "0.99.133",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.133.exe",
-  "sha256": "d1db4054bcc718fb922eb5526ce91e9a5028d6dd15d276009abfeaab1a8b9ffe",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.133.zip",
-  "zip_sha256": "b0915267dcb8a16278be51c9b87361a822b9884bea91207d3966b35597783c60",
-  "notes": "0.99.133: Kolonna shpilkasi Х_22, yon xomut asosiy xomut chizig'ida; tepada L qayrilish; yon sterjen 0 — yo'q."
+  "version": "0.99.134",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.134.exe",
+  "sha256": "a861013da8d42c80fba9c3891fe80a635c1aa296daf3c01997941f6f838a6e09",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.134.zip",
+  "zip_sha256": "d076dde0caa06f18cf3105280244696dcb940a007b8f7b66498f650a8b17f5b2",
+  "notes": "0.99.134: Kolonna xomutlari istalgan diametrda sterjenlarga tegib turadi; shpilka Х_22."
 }
