@@ -1,8 +1,8 @@
 {
-  "version": "0.99.107",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.107.exe",
-  "sha256": "5f92b7b53f43c5ff0c7b7284713fbef28cee1eda91a24a734535021ec9f8a31e",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.107.zip",
-  "zip_sha256": "db6e34410f1bdd1da822cd84dc49e02b2f5c3c7cb2f21808780875e67069e22f",
-  "notes": "0.99.107: Rigel va kolonna armaturalangach listlar avtomatik; «Armatura listlari» tugmasi olib tashlandi."
+  "version": "0.99.108",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.108.exe",
+  "sha256": "88153209b5e2ee54a3f4f0b89f3280f81ec99e51246d194fcd9b57a5374b685f",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.108.zip",
+  "zip_sha256": "5f0ad972bd327299e17ac19dcd3482e4853560d7d53bf2e40dc04af619677088",
+  "notes": "0.99.108: Har markaga bitta list — chapda fasad, o'ngda spetsifikatsiya va ВРС, ostida kesimlar."
 }
