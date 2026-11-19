@@ -1,8 +1,8 @@
 {
-  "version": "0.99.106",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.106.exe",
-  "sha256": "20426493fdbb3eca243423c8ecce8e99089babd1ff43b8637a729ddfc25dddf4",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.106.zip",
-  "zip_sha256": "a1ffb25f9a65cecfdd0e837bffc379a2769c65ddf670e6d2bca79397810966cc",
-  "notes": "0.99.106: Kolonna oynasi — qiymatlar rasmning o'zida (kesim va fasad), ulanish turi rasmli tugmalar; «Kengaytirilgan» — eski shakl."
+  "version": "0.99.107",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.107.exe",
+  "sha256": "5f92b7b53f43c5ff0c7b7284713fbef28cee1eda91a24a734535021ec9f8a31e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.107.zip",
+  "zip_sha256": "db6e34410f1bdd1da822cd84dc49e02b2f5c3c7cb2f21808780875e67069e22f",
+  "notes": "0.99.107: Rigel va kolonna armaturalangach listlar avtomatik; «Armatura listlari» tugmasi olib tashlandi."
 }
