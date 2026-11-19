@@ -1,8 +1,8 @@
 {
-  "version": "0.99.112",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.112.exe",
-  "sha256": "dee17f6688b163ed0ddcfc7028528ad603d3afbed2410b7e25a3cb5ee0432e45",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.112.zip",
-  "zip_sha256": "1dde46fdd76fed6b96680ade2b36e40e0f079379cdf8af2b2cf8d866d7ecbff2",
-  "notes": "0.99.112: Har markaga ВРС (firma shablonidan), jami, bo'sh diametrlar yashirin, sarlavha «(N шт)»."
+  "version": "0.99.113",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.113.exe",
+  "sha256": "d1dd6612cad3a3bb59e5756a2339dde2fddf70efccac26dac8ee34f92d2d0e1c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.113.zip",
+  "zip_sha256": "71be7352b2cafc814bd41eda0d49d8c9d8ea86103939fb4597c88125a34eaa04",
+  "notes": "0.99.113: Listga Ведомость деталей (часть НА) va ВРС «на 1 жб» — kolonna markasi bo'yicha."
 }
