@@ -1,8 +1,8 @@
 {
-  "version": "0.99.120",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.120.exe",
-  "sha256": "f1495d53066e1557df53b5ae2cafb810a2455708b510fd6e3558eb6f97d21c5f",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.120.zip",
-  "zip_sha256": "c3baf5567781b0c78e27421e5bcc3597ba4a45876499345a8aec66d3740f0cb5",
-  "notes": "0.99.120: «Тип арматуры» avtomatik — bo'ylama «Основная», xomutlar «Деталь»."
+  "version": "0.99.121",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.121.exe",
+  "sha256": "74837bf87392bb64c7d59932c8277c127d93ad37ccc8e96b449e6ba53438aba1",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.121.zip",
+  "zip_sha256": "589a207d113351f2296f248b2d414c65daa8ac42c60d3c7236244ff35d62ca6d",
+  "notes": "0.99.121: Тип арматуры kaliti, (N шт), ВРС bo'sh Итого yashirin, yon xomut aniq o'lchamda."
 }
