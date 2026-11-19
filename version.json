@@ -1,8 +1,8 @@
 {
-  "version": "0.99.130",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.130.exe",
-  "sha256": "65e1aa2e1ad5253d623a0859bb2d01c7f22fc04e66d09cd69fdc6fd384fe35d7",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.130.zip",
-  "zip_sha256": "9dc4c8d65b6aee618c1ce0b3a8b46c621d5904e58213215f03bb510fa2998abf",
-  "notes": "0.99.130: О_22 shpilka ilmoqlari asosiy xomut chizig'ida; шайба o'lchami kiritiladi."
+  "version": "0.99.131",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.131.exe",
+  "sha256": "4c94265644a6808bfdca954cc9296b1c38fd84449fb8b649db4ecb1a72649b19",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.131.zip",
+  "zip_sha256": "fee75c7661e8b79f67933a6c24ccb22fe184bccf87bd8a8de4e56ae3c8497004",
+  "notes": "0.99.131: Yon sterjen 0 — yo'q; list bo'lmasa tepada L qayrilish (oyog'i kiritiladi); ma'lumot oynasi olib tashlandi."
 }
