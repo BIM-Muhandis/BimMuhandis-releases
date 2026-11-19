@@ -1,8 +1,8 @@
 {
-  "version": "0.99.117",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.117.exe",
-  "sha256": "0b1044c967b258fea1b1d68a90fac9a49b8ceb48b99e3ba094efe258e927630c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.117.zip",
-  "zip_sha256": "71a544ffa1cbf63f40b15a3af7f8e26a600e818361da4a8d097e8b5a73993a5f",
-  "notes": "0.99.117: Yon sterjenlar romb/to'rtburchak xomuti — sterjenlar bukilish ichida."
+  "version": "0.99.118",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.118.exe",
+  "sha256": "1e38ddf9305d036e339c33e3795014057e6893b447363238a55c762855100219",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.118.zip",
+  "zip_sha256": "e8c018e922a160b11dc37024ffccd5d221a967fbf23a48299a005c8b64b55bdb",
+  "notes": "0.99.118: ВРС da «Общий итог» qatori olib tashlandi; yon xomutlar barcha qavatlarda sterjen bukilish ichida."
 }
