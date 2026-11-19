@@ -1,8 +1,8 @@
 {
-  "version": "0.99.108",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.108.exe",
-  "sha256": "88153209b5e2ee54a3f4f0b89f3280f81ec99e51246d194fcd9b57a5374b685f",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.108.zip",
-  "zip_sha256": "5f0ad972bd327299e17ac19dcd3482e4853560d7d53bf2e40dc04af619677088",
-  "notes": "0.99.108: Har markaga bitta list — chapda fasad, o'ngda spetsifikatsiya va ВРС, ostida kesimlar."
+  "version": "0.99.109",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.109.exe",
+  "sha256": "07cda521c9d8a7f737e25343560be3dcfa10d433b22748fe24eabaec0b93efbf",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.109.zip",
+  "zip_sha256": "474aeb50ad75924e8d4c3a9304b269d84e62f6179b34743e6872c4b05ef9bd52",
+  "notes": "0.99.109: Kolonna xomutlari va shpilkalari sterjenlarga зависимость bilan bog'lanadi — tegib turadi."
 }
