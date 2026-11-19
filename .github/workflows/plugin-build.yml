@@ -1,0 +1,102 @@
+# BIM Muhandis plagini — yig'ish va chiqarish (ochiq repoda: GitHub Actions bepul).
+# Manba kodi yopiq BimMuhandis reposidan SOURCE_TOKEN bilan olinadi; plagin fayllari yashirin «u» shoxiga yoziladi
+# (o'rnatilgan plaginlar shu yerdan avtomatik yangilanadi). Eski plagin relizlari (v0.x qoralamalar) o'chiriladi.
+# Ishga tushirish: Actions → «plugin-build» → Run workflow (yoki API orqali workflow_dispatch).
+name: plugin-build
+
+on:
+  workflow_dispatch:
+    inputs:
+      ref:
+        description: "Manba shoxi yoki commit (sukut main)"
+        default: main
+      cleanup_only:
+        description: "Faqat eski plagin relizlarini o'chirish (1 — ha)"
+        default: "0"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: plugin-build
+  cancel-in-progress: false
+
+jobs:
+  cleanup:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Eski plagin relizlarini o'chirish (fayllar «u» shoxida)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh api "repos/${{ github.repository }}/releases?per_page=100" --paginate \
+            --jq '.[] | select(.tag_name|test("^v[0-9]")) | "\(.id) \(.tag_name)"' | while read id tag; do
+              gh api -X DELETE "repos/${{ github.repository }}/releases/$id" >/dev/null && echo "o'chirildi: $tag"
+              gh api -X DELETE "repos/${{ github.repository }}/git/refs/tags/$tag" >/dev/null 2>&1 || true
+            done
+
+  build:
+    if: inputs.cleanup_only != '1'
+    needs: cleanup
+    runs-on: windows-latest
+    defaults:
+      run:
+        shell: pwsh
+        working-directory: bm
+    steps:
+      - name: Manba kodi (yopiq repo)
+        uses: actions/checkout@v4
+        with:
+          repository: shohruhorozov251-web/BimMuhandis
+          ref: ${{ inputs.ref }}
+          token: ${{ secrets.SOURCE_TOKEN }}
+          path: bm
+
+      - name: Versiya
+        id: v
+        run: |
+          [xml]$p = Get-Content src/BimMuhandis/BimMuhandis.csproj
+          $ver = ($p.Project.PropertyGroup | ForEach-Object { $_.Version } | Where-Object { $_ } | Select-Object -First 1)
+          $rel = '${{ github.repository }}'
+          "ver=$ver" >> $env:GITHUB_OUTPUT
+          "rel=$rel" >> $env:GITHUB_OUTPUT
+          $cur = ''
+          try { $cur = (Invoke-RestMethod "https://raw.githubusercontent.com/$rel/u/version.json?t=$([DateTime]::UtcNow.Ticks)").version } catch { }
+          if ($cur -eq $ver) { "exists=1" >> $env:GITHUB_OUTPUT; Write-Host "$ver allaqachon chiqarilgan — o'tkazildi." } else { "exists=0" >> $env:GITHUB_OUTPUT }
+          exit 0
+
+      - uses: actions/setup-dotnet@v4
+        if: steps.v.outputs.exists == '0'
+        with:
+          dotnet-version: |
+            8.0.x
+            10.0.x
+
+      - name: Inno Setup
+        if: steps.v.outputs.exists == '0'
+        run: choco install innosetup -y --no-progress
+
+      - name: release.ini
+        if: steps.v.outputs.exists == '0'
+        run: |
+          $r = '${{ steps.v.outputs.rel }}'
+          @(
+            "github_repo = $r",
+            "release_repo = $r",
+            "json_url = https://raw.githubusercontent.com/$r/u/version.json",
+            "exe_url = https://raw.githubusercontent.com/$r/u/BimMuhandis-Setup-{version}.exe"
+          ) | Set-Content installer/release.ini -Encoding UTF8
+
+      - name: Yig'ish va chiqarish («u» shoxiga)
+        if: steps.v.outputs.exists == '0'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: ./build.ps1 -Ci -Installer -Publish
+
+      - name: Log
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: plugin-build-log
+          path: bm/build-log.txt
+          if-no-files-found: ignore
