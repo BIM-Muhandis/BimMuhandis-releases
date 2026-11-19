@@ -1,8 +1,8 @@
 {
-  "version": "0.99.113",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.113.exe",
-  "sha256": "d1dd6612cad3a3bb59e5756a2339dde2fddf70efccac26dac8ee34f92d2d0e1c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.113.zip",
-  "zip_sha256": "71be7352b2cafc814bd41eda0d49d8c9d8ea86103939fb4597c88125a34eaa04",
-  "notes": "0.99.113: Listga Ведомость деталей (часть НА) va ВРС «на 1 жб» — kolonna markasi bo'yicha."
+  "version": "0.99.114",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.114.exe",
+  "sha256": "d504955ce03e27e45df7763e3d7d55c8b38a20aa2572e957296cf4d90cc4e59d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.114.zip",
+  "zip_sha256": "b72955879f232dcfc879d8f9109e77bc9fe768d8df647a2ad9e03ccf2ab02dbe",
+  "notes": "0.99.114: Listga beton hajmi jadvali (N шт), jadvallar tartibi namunadagidek."
 }
