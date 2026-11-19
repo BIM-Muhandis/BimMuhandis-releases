@@ -1,8 +1,8 @@
 {
-  "version": "0.99.125",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.125.exe",
-  "sha256": "65c37faa5c464f49650d97512715f93ba151b2f4a60f6aca709c376b12721973",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.125.zip",
-  "zip_sha256": "43683247f527698227cbe375c1621f6185dbab97f5035ad4d3ff44a48057ab60",
-  "notes": "0.99.125: List A2 dan, kesim belgilari firma oilasi bilan (o'rtasi uzilgan), vid nomlari ruscha."
+  "version": "0.99.126",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.126.exe",
+  "sha256": "c2898b99ce5603e13b60f1bd4c4b0b038ba26f17e155b07670c77ba8a3da1a78",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.126.zip",
+  "zip_sha256": "fa568bee6ba05559436f1334d041278d550e35e0b3c62d4383490019c718ab36",
+  "notes": "0.99.126: Kolonna tepasidagi listlar va выпуск шайбалари qo'yiladi."
 }
