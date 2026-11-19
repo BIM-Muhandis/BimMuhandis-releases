@@ -1,8 +1,8 @@
 {
-  "version": "0.99.126",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.126.exe",
-  "sha256": "c2898b99ce5603e13b60f1bd4c4b0b038ba26f17e155b07670c77ba8a3da1a78",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.126.zip",
-  "zip_sha256": "fa568bee6ba05559436f1334d041278d550e35e0b3c62d4383490019c718ab36",
-  "notes": "0.99.126: Kolonna tepasidagi listlar va выпуск шайбалари qo'yiladi."
+  "version": "0.99.127",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.127.exe",
+  "sha256": "33854976735d266b51ae878b970b596a1bd1ae59af3ad0e90417e64c9bf860ac",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.127.zip",
+  "zip_sha256": "20352f76e5a56bb59cb9202874760b357f8f2804fabd8730e0d7e154000f6c07",
+  "notes": "0.99.127: Listlar faqat A2 (kolonna — tik). Х_52 xomut va romb tomonlari sterjenlarga to'g'ri tegadi."
 }
