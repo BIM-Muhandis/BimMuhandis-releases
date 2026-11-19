@@ -1,8 +1,8 @@
 {
-  "version": "0.99.100",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.100.exe",
-  "sha256": "b619eeeba492a847cfec5c3052049df12a9e813e05532337c5eb9671e0d328c1",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.100.zip",
-  "zip_sha256": "efd543fc342cc2faf2c3a015d299e56de7b01d64b81bb4fb2514b72800d9f863",
+  "version": "0.99.101",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.101.exe",
+  "sha256": "65e352aa2b12e77c58d8e68e974dbd81e1d5aae7f4d4de555b28c718b83523b9",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.101.zip",
+  "zip_sha256": "6e46de7cdacf25863f2f803aeee850019d57e863d963d6b0ed47d38e07b46af0",
   "notes": "0.99.100: «Armatura listlari» — kolonna, rigel, fundament uchun markaga bitta list: kesimlar va shu marka bo'yicha filtrlangan spetsifikatsiya."
 }
