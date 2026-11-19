@@ -1,8 +1,8 @@
 {
-  "version": "0.99.101",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.101.exe",
-  "sha256": "65e352aa2b12e77c58d8e68e974dbd81e1d5aae7f4d4de555b28c718b83523b9",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.101.zip",
-  "zip_sha256": "6e46de7cdacf25863f2f803aeee850019d57e863d963d6b0ed47d38e07b46af0",
-  "notes": "0.99.100: «Armatura listlari» — kolonna, rigel, fundament uchun markaga bitta list: kesimlar va shu marka bo'yicha filtrlangan spetsifikatsiya."
+  "version": "0.99.102",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.102.exe",
+  "sha256": "55a4477cf5a318f90a1aa2b38823a44874c697529b92538b7b1decd819891a52",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.102.zip",
+  "zip_sha256": "d89391effe83f789da100ed6e7496be31b165e4d0ebb07b1bfda319cfcccaa46",
+  "notes": "0.99.102: «Kolonna armaturasi» oynasida jonli rasmlar (kesim va fasad sxemasi); yon armatura soni har yonda 1–5 ta."
 }
