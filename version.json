@@ -1,8 +1,8 @@
 {
-  "version": "0.99.121",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.121.exe",
-  "sha256": "74837bf87392bb64c7d59932c8277c127d93ad37ccc8e96b449e6ba53438aba1",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.121.zip",
-  "zip_sha256": "589a207d113351f2296f248b2d414c65daa8ac42c60d3c7236244ff35d62ca6d",
-  "notes": "0.99.121: Тип арматуры kaliti, (N шт), ВРС bo'sh Итого yashirin, yon xomut aniq o'lchamda."
+  "version": "0.99.122",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.122.exe",
+  "sha256": "d22009d1862e5ab941478a39a5da45e00bfb14a10a3c90d589be299fb562719c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.122.zip",
+  "zip_sha256": "97670279f9cf408d0dd4b5ab14defcf5ee00eb7da7b34502a5ca0456093af26b",
+  "notes": "0.99.122: Beton jadvalida «(N шт)» ko'rinadigan shriftda."
 }
