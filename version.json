@@ -1,8 +1,8 @@
 {
-  "version": "0.99.109",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.109.exe",
-  "sha256": "07cda521c9d8a7f737e25343560be3dcfa10d433b22748fe24eabaec0b93efbf",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.109.zip",
-  "zip_sha256": "474aeb50ad75924e8d4c3a9304b269d84e62f6179b34743e6872c4b05ef9bd52",
-  "notes": "0.99.109: Kolonna xomutlari va shpilkalari sterjenlarga зависимость bilan bog'lanadi — tegib turadi."
+  "version": "0.99.110",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.110.exe",
+  "sha256": "3ee0d3f9f5a56f6a0fd54aad0a87d3e6b4f956e6ba05d37e74d48f96d5ba6897",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.110.zip",
+  "zip_sha256": "6618b128635e2de422dbff549231fea79bf9b9924d99fbdcf6835d1fa5bcccc1",
+  "notes": "0.99.110: Kolonna sterjenlari ustidagi plita/rigel ichiga, ustidan «tepadan» masofagacha chiqadi."
 }
