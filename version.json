@@ -1,8 +1,8 @@
 {
-  "version": "0.99.114",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.114.exe",
-  "sha256": "d504955ce03e27e45df7763e3d7d55c8b38a20aa2572e957296cf4d90cc4e59d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.114.zip",
-  "zip_sha256": "b72955879f232dcfc879d8f9109e77bc9fe768d8df647a2ad9e03ccf2ab02dbe",
-  "notes": "0.99.114: Listga beton hajmi jadvali (N шт), jadvallar tartibi namunadagidek."
+  "version": "0.99.115",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.115.exe",
+  "sha256": "b9fafdc6b190e0d3ace3044a495cf08351e716e50a64b952c88df1fb5bb1e315",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.115.zip",
+  "zip_sha256": "e5cb5c099e0c7b051e3a80b77b013a490e6b1973495edddfc70a6c0679cf8d07",
+  "notes": "0.99.115: Listlarda шайбалар ko'rinadi (kesim sterjen qatoridan), faqat o'z markasiniki."
 }
