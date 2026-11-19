@@ -1,8 +1,8 @@
 {
-  "version": "0.99.111",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.111.exe",
-  "sha256": "077ee23e2d0614ee2ad4539e7d868cc6e210ab3323ca79fedd18e07e03ad0193",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.111.zip",
-  "zip_sha256": "b40033e7b31cc2465cef2c27cf80c974563ff64faed99d9ed693f302ecad12e4",
-  "notes": "0.99.111: Kolonna xomuti 4 burchak sterjenga tegib turadi; yon sterjenlar cheti asosiylar cheti bilan bir chiziqda."
+  "version": "0.99.112",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.112.exe",
+  "sha256": "dee17f6688b163ed0ddcfc7028528ad603d3afbed2410b7e25a3cb5ee0432e45",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.112.zip",
+  "zip_sha256": "1dde46fdd76fed6b96680ade2b36e40e0f079379cdf8af2b2cf8d866d7ecbff2",
+  "notes": "0.99.112: Har markaga ВРС (firma shablonidan), jami, bo'sh diametrlar yashirin, sarlavha «(N шт)»."
 }
