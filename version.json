@@ -1,8 +1,8 @@
 {
-  "version": "0.99.115",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.115.exe",
-  "sha256": "b9fafdc6b190e0d3ace3044a495cf08351e716e50a64b952c88df1fb5bb1e315",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.115.zip",
-  "zip_sha256": "e5cb5c099e0c7b051e3a80b77b013a490e6b1973495edddfc70a6c0679cf8d07",
-  "notes": "0.99.115: Listlarda шайбалар ko'rinadi (kesim sterjen qatoridan), faqat o'z markasiniki."
+  "version": "0.99.116",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.116.exe",
+  "sha256": "e401490e580bf6e39432213d7a2f62fdd36f5fe8bb5950ca0735c4169661346a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.116.zip",
+  "zip_sha256": "adb92198e29cdf7db646a9847c1401aa192a2c20be3dc86bae69d8feb7ad5db3",
+  "notes": "0.99.116: Rigel ko'ndalang kesimlari eni tuzatildi; шайбалар listda ko'rinadi."
 }
