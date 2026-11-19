@@ -1,8 +1,8 @@
 {
-  "version": "0.99.124",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.124.exe",
-  "sha256": "ca20fda691fb3b67c45e32c2b2d8e9747dacb9fdbb19c6dec4beb3db7f85e7b8",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.124.zip",
-  "zip_sha256": "f5c17427e23fc889798441459808eb7fc347c6a36b17fed4680e497764325e7d",
-  "notes": "0.99.124: Tepadagi шайбалар, выпуск шайба varianti, list raqami ketma-ket."
+  "version": "0.99.125",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.125.exe",
+  "sha256": "65c37faa5c464f49650d97512715f93ba151b2f4a60f6aca709c376b12721973",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.125.zip",
+  "zip_sha256": "43683247f527698227cbe375c1621f6185dbab97f5035ad4d3ff44a48057ab60",
+  "notes": "0.99.125: List A2 dan, kesim belgilari firma oilasi bilan (o'rtasi uzilgan), vid nomlari ruscha."
 }
