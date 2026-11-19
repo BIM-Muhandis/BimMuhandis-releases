@@ -1,8 +1,8 @@
 {
-  "version": "0.99.119",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.119.exe",
-  "sha256": "1a14b820f096619f659db616f9740329bf5c55302e468577c6d1c073e0287f99",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.119.zip",
-  "zip_sha256": "4ee9a8bc775491dd56f32f26a957eea85e58944d5dd1e933064ea28509958ec2",
-  "notes": "0.99.119: Spetsifikatsiya filtri va sarlavhasi, avtomatik pozitsiyalar, (N шт), firma vid shablonlari."
+  "version": "0.99.120",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.120.exe",
+  "sha256": "f1495d53066e1557df53b5ae2cafb810a2455708b510fd6e3558eb6f97d21c5f",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.120.zip",
+  "zip_sha256": "c3baf5567781b0c78e27421e5bcc3597ba4a45876499345a8aec66d3740f0cb5",
+  "notes": "0.99.120: «Тип арматуры» avtomatik — bo'ylama «Основная», xomutlar «Деталь»."
 }
