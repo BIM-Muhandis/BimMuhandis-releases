@@ -93,6 +93,20 @@ jobs:
           GH_TOKEN: ${{ github.token }}
         run: ./build.ps1 -Ci -Installer -Publish
 
+      - name: «Latest» dagi version.json — eski o'rnatilgan plaginlar uchun (raw kesh yangilanishini kutib)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          $ver = '${{ steps.v.outputs.ver }}'; $rel = '${{ steps.v.outputs.rel }}'
+          for ($i = 0; $i -lt 20; $i++) {
+            $cur = ''
+            try { $cur = (Invoke-RestMethod "https://raw.githubusercontent.com/$rel/u/version.json?t=$([DateTime]::UtcNow.Ticks)" -Headers @{ 'Cache-Control' = 'no-cache' }).version } catch { }
+            if ($cur -eq $ver) { break }
+            Start-Sleep -Seconds 30
+          }
+          Write-Host "u shoxi: $cur"
+          ./installer/plugin-hidden.ps1 -Rel $rel
+
       - name: Log
         if: always()
         uses: actions/upload-artifact@v4
