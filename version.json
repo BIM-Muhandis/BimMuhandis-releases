@@ -1,8 +1,8 @@
 {
-  "version": "0.99.123",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.123.exe",
-  "sha256": "d5c7cd0eaedc77738443b09fd26c935ee805f93c99ae38072a4f2501c044ef78",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.123.zip",
-  "zip_sha256": "d647430688964f9e4de9933d8f1c5c199393a8eadedd41e7e068bd46b5a305de",
-  "notes": "0.99.123: Kolonna xomuti har qavatda asosiy sterjenlarni o'rab turadi."
+  "version": "0.99.124",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.124.exe",
+  "sha256": "ca20fda691fb3b67c45e32c2b2d8e9747dacb9fdbb19c6dec4beb3db7f85e7b8",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.124.zip",
+  "zip_sha256": "f5c17427e23fc889798441459808eb7fc347c6a36b17fed4680e497764325e7d",
+  "notes": "0.99.124: Tepadagi шайбалар, выпуск шайба varianti, list raqami ketma-ket."
 }
