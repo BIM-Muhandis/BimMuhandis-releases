@@ -1,8 +1,8 @@
 {
-  "version": "0.99.129",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.129.exe",
-  "sha256": "e9a081d8946332fbc4c8aadec7ddf6e454760fc64153bb25c303e0cd610fda68",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.129.zip",
-  "zip_sha256": "e5b354ed1759616a9b306c91654e431032190198968f51c22c8aa3950588bf67",
-  "notes": "0.99.129: Kolonna выпуск шайбаси o'lchami kiritiladi (eni×bo'yi×qalinligi)."
+  "version": "0.99.130",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.130.exe",
+  "sha256": "65e1aa2e1ad5253d623a0859bb2d01c7f22fc04e66d09cd69fdc6fd384fe35d7",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.130.zip",
+  "zip_sha256": "9dc4c8d65b6aee618c1ce0b3a8b46c621d5904e58213215f03bb510fa2998abf",
+  "notes": "0.99.130: О_22 shpilka ilmoqlari asosiy xomut chizig'ida; шайба o'lchami kiritiladi."
 }
