@@ -1,8 +1,8 @@
 {
-  "version": "0.99.122",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.122.exe",
-  "sha256": "d22009d1862e5ab941478a39a5da45e00bfb14a10a3c90d589be299fb562719c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.122.zip",
-  "zip_sha256": "97670279f9cf408d0dd4b5ab14defcf5ee00eb7da7b34502a5ca0456093af26b",
-  "notes": "0.99.122: Beton jadvalida «(N шт)» ko'rinadigan shriftda."
+  "version": "0.99.123",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.123.exe",
+  "sha256": "d5c7cd0eaedc77738443b09fd26c935ee805f93c99ae38072a4f2501c044ef78",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.123.zip",
+  "zip_sha256": "d647430688964f9e4de9933d8f1c5c199393a8eadedd41e7e068bd46b5a305de",
+  "notes": "0.99.123: Kolonna xomuti har qavatda asosiy sterjenlarni o'rab turadi."
 }
