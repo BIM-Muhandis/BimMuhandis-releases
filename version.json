@@ -1,8 +1,8 @@
 {
-  "version": "0.99.118",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.118.exe",
-  "sha256": "1e38ddf9305d036e339c33e3795014057e6893b447363238a55c762855100219",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.118.zip",
-  "zip_sha256": "e8c018e922a160b11dc37024ffccd5d221a967fbf23a48299a005c8b64b55bdb",
-  "notes": "0.99.118: ВРС da «Общий итог» qatori olib tashlandi; yon xomutlar barcha qavatlarda sterjen bukilish ichida."
+  "version": "0.99.119",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.119.exe",
+  "sha256": "1a14b820f096619f659db616f9740329bf5c55302e468577c6d1c073e0287f99",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.119.zip",
+  "zip_sha256": "4ee9a8bc775491dd56f32f26a957eea85e58944d5dd1e933064ea28509958ec2",
+  "notes": "0.99.119: Spetsifikatsiya filtri va sarlavhasi, avtomatik pozitsiyalar, (N шт), firma vid shablonlari."
 }
