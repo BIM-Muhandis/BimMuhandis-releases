@@ -1,8 +1,8 @@
 {
-  "version": "0.99.102",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.102.exe",
-  "sha256": "55a4477cf5a318f90a1aa2b38823a44874c697529b92538b7b1decd819891a52",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.102.zip",
-  "zip_sha256": "d89391effe83f789da100ed6e7496be31b165e4d0ebb07b1bfda319cfcccaa46",
-  "notes": "0.99.102: «Kolonna armaturasi» oynasida jonli rasmlar (kesim va fasad sxemasi); yon armatura soni har yonda 1–5 ta."
+  "version": "0.99.103",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.103.exe",
+  "sha256": "4664d65ac2d4dc786603508784128cf63f6a523be33430935de6f7da837bf425",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.103.zip",
+  "zip_sha256": "a2022662188d5d3a35346926170cb73160fe52318c459267bb13443ba74a52f7",
+  "notes": "0.99.103: Kolonna armaturasida «svarka» ulanishi — накладка Ø=d, 10,5d, tirqish 0,5d; burchakda L shaklda ichkariga."
 }
