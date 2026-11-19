@@ -1,8 +1,8 @@
 {
-  "version": "0.99.132",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.132.exe",
-  "sha256": "211dac2e5169123139d5b8069441a15415c3a12f3872e6ab47d637d69f6e9c38",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.132.zip",
-  "zip_sha256": "bfaba294b477dcc6bfad6640669c6554c4b9b9ef21655a9f39e7f2cd2500f362",
-  "notes": "0.99.132: Kolonna tepasida L qayrilish (list bo'lmasa), yangi О_26_Г shakli; yon sterjen 0 — yo'q."
+  "version": "0.99.133",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.133.exe",
+  "sha256": "d1db4054bcc718fb922eb5526ce91e9a5028d6dd15d276009abfeaab1a8b9ffe",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.133.zip",
+  "zip_sha256": "b0915267dcb8a16278be51c9b87361a822b9884bea91207d3966b35597783c60",
+  "notes": "0.99.133: Kolonna shpilkasi Х_22, yon xomut asosiy xomut chizig'ida; tepada L qayrilish; yon sterjen 0 — yo'q."
 }
