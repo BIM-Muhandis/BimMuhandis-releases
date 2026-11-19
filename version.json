@@ -1,8 +1,8 @@
 {
-  "version": "0.99.110",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.110.exe",
-  "sha256": "3ee0d3f9f5a56f6a0fd54aad0a87d3e6b4f956e6ba05d37e74d48f96d5ba6897",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.110.zip",
-  "zip_sha256": "6618b128635e2de422dbff549231fea79bf9b9924d99fbdcf6835d1fa5bcccc1",
-  "notes": "0.99.110: Kolonna sterjenlari ustidagi plita/rigel ichiga, ustidan «tepadan» masofagacha chiqadi."
+  "version": "0.99.111",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.111.exe",
+  "sha256": "077ee23e2d0614ee2ad4539e7d868cc6e210ab3323ca79fedd18e07e03ad0193",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.111.zip",
+  "zip_sha256": "b40033e7b31cc2465cef2c27cf80c974563ff64faed99d9ed693f302ecad12e4",
+  "notes": "0.99.111: Kolonna xomuti 4 burchak sterjenga tegib turadi; yon sterjenlar cheti asosiylar cheti bilan bir chiziqda."
 }
