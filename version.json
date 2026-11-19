@@ -1,8 +1,8 @@
 {
-  "version": "0.99.128",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.128.exe",
-  "sha256": "3f1b7fff558f994bcfd210f50482a659954717000a889b1f5d41988730a7baa6",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.128.zip",
-  "zip_sha256": "de6d53f4d8b1660a1748459e6c7b1731002401d4e2691123235fc29ca0c98d78",
-  "notes": "0.99.128: Listlar faqat A2 (kolonna — tik), Х_52 xomut/romb sterjenlarga to'g'ri tegadi, list raqami ketma-ket."
+  "version": "0.99.129",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.129.exe",
+  "sha256": "e9a081d8946332fbc4c8aadec7ddf6e454760fc64153bb25c303e0cd610fda68",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.129.zip",
+  "zip_sha256": "e5b354ed1759616a9b306c91654e431032190198968f51c22c8aa3950588bf67",
+  "notes": "0.99.129: Kolonna выпуск шайбаси o'lchami kiritiladi (eni×bo'yi×qalinligi)."
 }
