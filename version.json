@@ -1,8 +1,8 @@
 {
-  "version": "0.99.104",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.104.exe",
-  "sha256": "6b32c8a7958ebcd33b673920233fd2901e6b9d6bd222a60f5e8a48ab12dfdaaa",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.104.zip",
-  "zip_sha256": "9a8f003d7bc89448d8fbbaae3a30d6912202b763c3aa0d100256994fd2adf9a6",
-  "notes": "0.99.104: Kolonna oynasida xomut qadamlari o'lcham zanjiri bilan ko'rsatiladi (zich/o'rta, soni va uzunligi)."
+  "version": "0.99.105",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.105.exe",
+  "sha256": "72767f5ec6a4b400002616f866d93c8ef2c2896993a50f036c393b5d8926be0d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.105.zip",
+  "zip_sha256": "28e3551d225b0b28888c1580de0184bf5b9b0a5560670234b15f1109437db754",
+  "notes": "0.99.105: Kolonna yon sterjenlari xomuti tashqi tomondan o'raydi; 1 tadan bo'lsa — kvadratda Х_52 romb, aks holda О_22 shpilka (ilmoq uchi 10d)."
 }
