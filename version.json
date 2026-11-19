@@ -1,8 +1,8 @@
 {
-  "version": "0.99.134",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.134.exe",
-  "sha256": "a861013da8d42c80fba9c3891fe80a635c1aa296daf3c01997941f6f838a6e09",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.134.zip",
-  "zip_sha256": "d076dde0caa06f18cf3105280244696dcb940a007b8f7b66498f650a8b17f5b2",
-  "notes": "0.99.134: Kolonna xomutlari istalgan diametrda sterjenlarga tegib turadi; shpilka Х_22."
+  "version": "0.99.135",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.135.exe",
+  "sha256": "09f6a4333d3c9fa67ac42f037b4cfa4d911866d33fbf0355790bb4d7afc5966b",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.135.zip",
+  "zip_sha256": "d693f8bfa2e68cdc1e4f2e701db745d6e7272a94be3a364dee05be8db60a4060",
+  "notes": "0.99.135: Rigel oynasi rasmli (kesim + bo'ylama sxema, qiymatlar chizma ustida)."
 }
