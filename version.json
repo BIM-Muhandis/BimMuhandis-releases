@@ -1,8 +1,8 @@
 {
-  "version": "0.99.131",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.131.exe",
-  "sha256": "4c94265644a6808bfdca954cc9296b1c38fd84449fb8b649db4ecb1a72649b19",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.131.zip",
-  "zip_sha256": "fee75c7661e8b79f67933a6c24ccb22fe184bccf87bd8a8de4e56ae3c8497004",
-  "notes": "0.99.131: Yon sterjen 0 — yo'q; list bo'lmasa tepada L qayrilish (oyog'i kiritiladi); ma'lumot oynasi olib tashlandi."
+  "version": "0.99.132",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.132.exe",
+  "sha256": "211dac2e5169123139d5b8069441a15415c3a12f3872e6ab47d637d69f6e9c38",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.132.zip",
+  "zip_sha256": "bfaba294b477dcc6bfad6640669c6554c4b9b9ef21655a9f39e7f2cd2500f362",
+  "notes": "0.99.132: Kolonna tepasida L qayrilish (list bo'lmasa), yangi О_26_Г shakli; yon sterjen 0 — yo'q."
 }
