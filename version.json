@@ -1,8 +1,8 @@
 {
-  "version": "0.99.116",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.116.exe",
-  "sha256": "e401490e580bf6e39432213d7a2f62fdd36f5fe8bb5950ca0735c4169661346a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.116.zip",
-  "zip_sha256": "adb92198e29cdf7db646a9847c1401aa192a2c20be3dc86bae69d8feb7ad5db3",
-  "notes": "0.99.116: Rigel ko'ndalang kesimlari eni tuzatildi; шайбалар listda ko'rinadi."
+  "version": "0.99.117",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.117.exe",
+  "sha256": "0b1044c967b258fea1b1d68a90fac9a49b8ceb48b99e3ba094efe258e927630c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.117.zip",
+  "zip_sha256": "71a544ffa1cbf63f40b15a3af7f8e26a600e818361da4a8d097e8b5a73993a5f",
+  "notes": "0.99.117: Yon sterjenlar romb/to'rtburchak xomuti — sterjenlar bukilish ichida."
 }
