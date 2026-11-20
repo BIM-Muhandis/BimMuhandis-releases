@@ -1,8 +1,8 @@
 {
-  "version": "0.99.149",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.149.exe",
-  "sha256": "e12effee86cbd703c975d9421e88f1ab1d8a137ca6b25af7f1220e3b49b0fd6a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.149.zip",
-  "zip_sha256": "4cbd1eb9557856291af2f90bf8b8bcfae102a3a300de771bbb107639efc7298e",
-  "notes": "0.99.149: Kolonna xomutlari zazorsiz."
+  "version": "0.99.150",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.150.exe",
+  "sha256": "67d7af47ace1681b603d6d6da1fdb8646f4fdf0c38c63bcb41b7377bd472c238",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.150.zip",
+  "zip_sha256": "2e12cfa8f8fca63424e95a4e0aac780d3d7bd3c03aa510f17bd1600ab62e657c",
+  "notes": "0.99.150: Kesim chiziqlari o'rtasi ochiq (har uchida 10 mm)."
 }
