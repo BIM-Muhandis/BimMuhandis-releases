@@ -1,8 +1,8 @@
 {
-  "version": "0.99.142",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.142.exe",
-  "sha256": "8f83a360f946ba8a69f67fb04bc963a622e0bdd7de9e0233a96a43db072b76b4",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.142.zip",
-  "zip_sha256": "ff060832251074151731ff4f870b88912fd73d1ff4b3bae75002fd3b7c18a168",
-  "notes": "0.99.142: Rigel oynasi — qo'shimcha parametrlar rasm ustida."
+  "version": "0.99.143",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.143.exe",
+  "sha256": "c19e2794acd9971c170dd04a90a75294a28fa97b627858349dc4f96acbdd4a4b",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.143.zip",
+  "zip_sha256": "9b7eee668601429428495287b671a554ec68acdebe0ffa025145e1e36dc3b510",
+  "notes": "0.99.143: Rigel — avtomatik «Р-N» marka va kolonnadek list."
 }
