@@ -1,8 +1,8 @@
 {
-  "version": "0.99.154",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.154.exe",
-  "sha256": "85c6cbe595e32d204fc11925f8d8707cb69cba3e44349b05ee27962addb425f2",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.154.zip",
-  "zip_sha256": "2b92bb5a4eeb0c4015a2fd60b605840d30ea2c849cc3b9e6d2b16f7e044d9dc7",
-  "notes": "0.99.154: Hamma шайбаларга asos; sterjen шайбани kesib o'tadi."
+  "version": "0.99.155",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.155.exe",
+  "sha256": "ad6ad45bbb24a0e08f97a09ca2d28e2aa6a5b74d6778d5b57dbb3f8419f8d4dc",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.155.zip",
+  "zip_sha256": "abf619a4c6141551a706f9d440d95bdeda7df6e97759bdf56a62abdc4289df58",
+  "notes": "0.99.155: ВРС ga listlar/шайбалар qo'shildi; spetsifikatsiya ВРС bilan bir xil."
 }
