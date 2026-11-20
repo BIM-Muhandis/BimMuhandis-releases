@@ -1,8 +1,8 @@
 {
-  "version": "0.99.150",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.150.exe",
-  "sha256": "67d7af47ace1681b603d6d6da1fdb8646f4fdf0c38c63bcb41b7377bd472c238",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.150.zip",
-  "zip_sha256": "2e12cfa8f8fca63424e95a4e0aac780d3d7bd3c03aa510f17bd1600ab62e657c",
-  "notes": "0.99.150: Kesim chiziqlari o'rtasi ochiq (har uchida 10 mm)."
+  "version": "0.99.151",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.151.exe",
+  "sha256": "316753fbfe3f82ca83775108a6fc2e0c456af45ac35075fdeaab9f526a9c197e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.151.zip",
+  "zip_sha256": "453aa200dea1a06500cdca8d139f8f195bde7068776eb2a4027cdc3fade9d14d",
+  "notes": "0.99.151: Beton hajmi — N ta element uchun jami."
 }
