@@ -1,8 +1,8 @@
 {
-  "version": "0.99.135",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.135.exe",
-  "sha256": "09f6a4333d3c9fa67ac42f037b4cfa4d911866d33fbf0355790bb4d7afc5966b",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.135.zip",
-  "zip_sha256": "d693f8bfa2e68cdc1e4f2e701db745d6e7272a94be3a364dee05be8db60a4060",
-  "notes": "0.99.135: Rigel oynasi rasmli (kesim + bo'ylama sxema, qiymatlar chizma ustida)."
+  "version": "0.99.136",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.136.exe",
+  "sha256": "1c9d9200f5fdf51a8a567a3649b36ab72b6b6eb6c2f6397c7be931f3fe920992",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.136.zip",
+  "zip_sha256": "1464c94bebdb78d30c80536917f05da1d0fd652e09a6cb1048fc82e68683dc39",
+  "notes": "0.99.136: ВРС — soni yonida o'lcham (b×h yoki t=)."
 }
