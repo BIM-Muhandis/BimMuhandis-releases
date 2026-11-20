@@ -1,8 +1,8 @@
 {
-  "version": "0.99.145",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.145.exe",
-  "sha256": "31dbdc24638801dc6952d164a4eaae9286b240679701fa105d5309283921768b",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.145.zip",
-  "zip_sha256": "f08966b044470d7c99e682bd47112143ed71c2512e6a85e8ed0833334c629bc0",
-  "notes": "0.99.145: Yangi shaklga avtomatik forma va eskiz; kolonna oynasi aniqlashtirildi."
+  "version": "0.99.146",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.146.exe",
+  "sha256": "bc82f1a7ec860486f5569c49078622c115555b402c2c386ca4ab75f6e2ce973c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.146.zip",
+  "zip_sha256": "3b2425a15f68960f483b9423be047a024a0286533fd033599ddf22b483b7fea6",
+  "notes": "0.99.146: Kolonna oynasi — xomut sinfi xomut yonida."
 }
