@@ -1,8 +1,8 @@
 {
-  "version": "0.99.136",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.136.exe",
-  "sha256": "1c9d9200f5fdf51a8a567a3649b36ab72b6b6eb6c2f6397c7be931f3fe920992",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.136.zip",
-  "zip_sha256": "1464c94bebdb78d30c80536917f05da1d0fd652e09a6cb1048fc82e68683dc39",
-  "notes": "0.99.136: ВРС — soni yonida o'lcham (b×h yoki t=)."
+  "version": "0.99.137",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.137.exe",
+  "sha256": "d25802ebf20ef13a807c2c71ef2bbadbf0464b36ba742c399e4699e48f26ca26",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.137.zip",
+  "zip_sha256": "45f0b601ca89530928ae29b08c4f8f54ea33c4846dc7adf7e3a5fb1085b08752",
+  "notes": "0.99.137: ВРС — devorlar markasi/soni/hajmi to'g'ri, hammasi olinadi."
 }
