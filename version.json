@@ -1,8 +1,8 @@
 {
-  "version": "0.99.146",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.146.exe",
-  "sha256": "bc82f1a7ec860486f5569c49078622c115555b402c2c386ca4ab75f6e2ce973c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.146.zip",
-  "zip_sha256": "3b2425a15f68960f483b9423be047a024a0286533fd033599ddf22b483b7fea6",
-  "notes": "0.99.146: Kolonna oynasi — xomut sinfi xomut yonida."
+  "version": "0.99.147",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.147.exe",
+  "sha256": "bb79a7106a8ac6ea76ef5e49ea651e98d3123a0b2a70b6a92c7b6f21a1f1c52f",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.147.zip",
+  "zip_sha256": "d5eeabffcd1f6dac0517f2d46a4dd84533c8bc519750135bc946c84d011d7ceb",
+  "notes": "0.99.147: Kolonna oynasi faqat rasmli; asosiy/yon list va L oyog'i alohida; yon xomut zazorsiz."
 }
