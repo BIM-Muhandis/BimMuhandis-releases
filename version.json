@@ -1,8 +1,8 @@
 {
-  "version": "0.99.143",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.143.exe",
-  "sha256": "c19e2794acd9971c170dd04a90a75294a28fa97b627858349dc4f96acbdd4a4b",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.143.zip",
-  "zip_sha256": "9b7eee668601429428495287b671a554ec68acdebe0ffa025145e1e36dc3b510",
-  "notes": "0.99.143: Rigel — avtomatik «Р-N» marka va kolonnadek list."
+  "version": "0.99.144",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.144.exe",
+  "sha256": "e651f4f753e4a54bc40ef392e075990bea6b4ad596f0cc5dc9c27d3fef1032d7",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.144.zip",
+  "zip_sha256": "48b868c376e6c82ed0ac1980cf36dc06cbbbcfd002ebcf898b266b492de58467",
+  "notes": "0.99.144: ВРС — rigel betoni hisoblanadi."
 }
