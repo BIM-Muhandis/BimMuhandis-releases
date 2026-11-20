@@ -1,8 +1,8 @@
 {
-  "version": "0.99.153",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.153.exe",
-  "sha256": "c409574a4a3ee819091104f8b38e2abae7a9bf482f8318425e6f7e7fee5479f5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.153.zip",
-  "zip_sha256": "f9b9251944edf48c639e396d375d596832d0d8cddbc46cbe35fd1b70e40b7e6a",
-  "notes": "0.99.153: Romb uchi asosiy xomut tashqi chizig'ida."
+  "version": "0.99.154",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.154.exe",
+  "sha256": "85c6cbe595e32d204fc11925f8d8707cb69cba3e44349b05ee27962addb425f2",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.154.zip",
+  "zip_sha256": "2b92bb5a4eeb0c4015a2fd60b605840d30ea2c849cc3b9e6d2b16f7e044d9dc7",
+  "notes": "0.99.154: Hamma шайбаларга asos; sterjen шайбани kesib o'tadi."
 }
