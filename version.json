@@ -1,8 +1,8 @@
 {
-  "version": "0.99.152",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.152.exe",
-  "sha256": "2b1131fa6e5d06206c311782cf130c639118cadb1ab45377c23ba2922a5ee175",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.152.zip",
-  "zip_sha256": "70890330fe952bdffc5157dd731992d1eea9a4cbe0d4bd5a3fe5fc875f7cf187",
-  "notes": "0.99.152: Spetsifikatsiya 1 ta element uchun (1 шт), шайбалар ham."
+  "version": "0.99.153",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.153.exe",
+  "sha256": "c409574a4a3ee819091104f8b38e2abae7a9bf482f8318425e6f7e7fee5479f5",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.153.zip",
+  "zip_sha256": "f9b9251944edf48c639e396d375d596832d0d8cddbc46cbe35fd1b70e40b7e6a",
+  "notes": "0.99.153: Romb uchi asosiy xomut tashqi chizig'ida."
 }
