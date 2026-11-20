@@ -1,8 +1,8 @@
 {
-  "version": "0.99.147",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.147.exe",
-  "sha256": "bb79a7106a8ac6ea76ef5e49ea651e98d3123a0b2a70b6a92c7b6f21a1f1c52f",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.147.zip",
-  "zip_sha256": "d5eeabffcd1f6dac0517f2d46a4dd84533c8bc519750135bc946c84d011d7ceb",
-  "notes": "0.99.147: Kolonna oynasi faqat rasmli; asosiy/yon list va L oyog'i alohida; yon xomut zazorsiz."
+  "version": "0.99.148",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.148.exe",
+  "sha256": "04b6e5b1252b189e0872d7f940dd75ee45a19f0cc1e9f6cdd485530017b488e0",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.148.zip",
+  "zip_sha256": "316afbda20b3c2fcf105457a9338396e16d973ff8fe54f459d10634ed224ec4a",
+  "notes": "0.99.148: L oyog'i manfiy — tashqariga."
 }
