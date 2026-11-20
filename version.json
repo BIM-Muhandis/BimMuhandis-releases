@@ -1,8 +1,8 @@
 {
-  "version": "0.99.138",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.138.exe",
-  "sha256": "bb72f3f2fb6d2038c00268351ed55f514ae158304da8c6f67f3748587378aef2",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.138.zip",
-  "zip_sha256": "314677a3326fdb942493578823eaa961306a31c67f5bf3c2543b86b6d46116be",
-  "notes": "0.99.138: Kesim belgisi — Revitning o'z kesimi."
+  "version": "0.99.139",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.139.exe",
+  "sha256": "0d61d4e3466e1bbf51ba124fa3d0b708e64df44bd498349504e93c58fcf2b4b1",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.139.zip",
+  "zip_sha256": "a8ea941dea156a70bd09d6b59fb8a25efe5102282d45d18bda77b425849b57b1",
+  "notes": "0.99.139: Х_22 shpilka ADSK_R = d/2 — zazorsiz; kesim belgisi — Revitning o'z kesimi."
 }
