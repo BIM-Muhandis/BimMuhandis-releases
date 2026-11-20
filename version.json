@@ -1,8 +1,8 @@
 {
-  "version": "0.99.140",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.140.exe",
-  "sha256": "caa74ca5201f1026a22d36db172afe59d5e52f3ebc3a1016344982290169dc21",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.140.zip",
-  "zip_sha256": "871ba60f0d31b289ba433ffb5ac85b376b177d38a3b494028dda202021aa045b",
-  "notes": "0.99.140: «Номер вида» = sarlavha; Х_22 zazorsiz."
+  "version": "0.99.141",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.141.exe",
+  "sha256": "bd7901b09780a9b47af5c0b990caf40346174f2ba21f42e8cdc0cc6362fd351a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.141.zip",
+  "zip_sha256": "79c3955e75690b66ba25116dfd77f489527c94a2b39fb68a57dd69c32aefe274",
+  "notes": "0.99.141: Kesimlar 1, 2…; har bir konstruksiya brauzerda alohida guruh."
 }
