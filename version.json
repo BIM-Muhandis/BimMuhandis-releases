@@ -1,8 +1,8 @@
 {
-  "version": "0.99.137",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.137.exe",
-  "sha256": "d25802ebf20ef13a807c2c71ef2bbadbf0464b36ba742c399e4699e48f26ca26",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.137.zip",
-  "zip_sha256": "45f0b601ca89530928ae29b08c4f8f54ea33c4846dc7adf7e3a5fb1085b08752",
-  "notes": "0.99.137: ВРС — devorlar markasi/soni/hajmi to'g'ri, hammasi olinadi."
+  "version": "0.99.138",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.138.exe",
+  "sha256": "bb72f3f2fb6d2038c00268351ed55f514ae158304da8c6f67f3748587378aef2",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.138.zip",
+  "zip_sha256": "314677a3326fdb942493578823eaa961306a31c67f5bf3c2543b86b6d46116be",
+  "notes": "0.99.138: Kesim belgisi — Revitning o'z kesimi."
 }
