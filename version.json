@@ -1,8 +1,8 @@
 {
-  "version": "0.99.156",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.156.exe",
-  "sha256": "840882ae15c98606a64a60149db1dda646b71f0c3d5674a558d261584113ca32",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.156.zip",
-  "zip_sha256": "5b49db869786e811dd60008481d0fb6c57f5a223cd80773ca914c13296585cca",
-  "notes": "0.99.156: «Расход стали» — free-form armaturada «matched with multiple shapes» xatosi tuzatildi."
+  "version": "0.99.157",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.157.exe",
+  "sha256": "479bcb876b5eb76f3a6ac05c0fc392c72f3d69eb3367026e7a8d997673550215",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.157.zip",
+  "zip_sha256": "74fa6fa32cd48d5aced721877a7e52a58d2d192408c2c8ee44fa57881f930cad",
+  "notes": "0.99.157: «Изменить | Видовые экраны» vkladkasida «Открыть вид» tugmasi."
 }
