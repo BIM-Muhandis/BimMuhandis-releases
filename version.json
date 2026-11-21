@@ -1,8 +1,8 @@
 {
-  "version": "0.99.155",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.155.exe",
-  "sha256": "ad6ad45bbb24a0e08f97a09ca2d28e2aa6a5b74d6778d5b57dbb3f8419f8d4dc",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.155.zip",
-  "zip_sha256": "abf619a4c6141551a706f9d440d95bdeda7df6e97759bdf56a62abdc4289df58",
-  "notes": "0.99.155: ВРС ga listlar/шайбалар qo'shildi; spetsifikatsiya ВРС bilan bir xil."
+  "version": "0.99.156",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.156.exe",
+  "sha256": "840882ae15c98606a64a60149db1dda646b71f0c3d5674a558d261584113ca32",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.156.zip",
+  "zip_sha256": "5b49db869786e811dd60008481d0fb6c57f5a223cd80773ca914c13296585cca",
+  "notes": "0.99.156: «Расход стали» — free-form armaturada «matched with multiple shapes» xatosi tuzatildi."
 }
