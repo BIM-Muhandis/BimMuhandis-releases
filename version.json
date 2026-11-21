@@ -1,8 +1,8 @@
 {
-  "version": "0.99.157",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.157.exe",
-  "sha256": "479bcb876b5eb76f3a6ac05c0fc392c72f3d69eb3367026e7a8d997673550215",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.157.zip",
-  "zip_sha256": "74fa6fa32cd48d5aced721877a7e52a58d2d192408c2c8ee44fa57881f930cad",
-  "notes": "0.99.157: «Изменить | Видовые экраны» vkladkasida «Открыть вид» tugmasi."
+  "version": "0.99.158",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.158.exe",
+  "sha256": "dcf7ec3575f5f4528ed1c30aa34729fe6e50838535e484482da5031d8254b58e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.158.zip",
+  "zip_sha256": "ff1bb1dd45a8d03776d9cc2509bdb0fd1180a3dbf88c94065773672e6f567f6c",
+  "notes": "0.99.158: «Открыть вид» tugmasi ishlaydi."
 }
