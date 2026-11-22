@@ -1,8 +1,8 @@
 {
-  "version": "0.99.163",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.163.exe",
-  "sha256": "3802f4cba6ad32e8c938c2c24a413fc7b807d4343606ddfe90914d973127b216",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.163.zip",
-  "zip_sha256": "1bba61b91b7ed281bd4dec2c310b739443e241bd4cfc650d7188000aa837c04f",
-  "notes": "0.99.163: «Asosiy — tepada» yon tepadagidek."
+  "version": "0.99.164",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.164.exe",
+  "sha256": "4174b7c0af05f550f9f0c81ec2a5852e249a5c490f3eaed27b17d44521ba3239",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.164.zip",
+  "zip_sha256": "1aaceb23f4ed99b960512f6063acea0d5917cc039010283f7e9238811c04f8d4",
+  "notes": "0.99.164: listda avtomatik obryv; spetsifikatsiya «деталями»; jadvallar ramkaga va bir-biriga tegib."
 }
