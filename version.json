@@ -1,8 +1,8 @@
 {
-  "version": "0.99.199",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.199.exe",
-  "sha256": "84a867824b0a8f380961e5e3392346d48f62b0a06fe759a22beb1dc31901cc13",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.199.zip",
-  "zip_sha256": "3b6a35b5259fff11b145c1852ae3c8c7ea2fabd547e539df7778a762b470b6aa",
-  "notes": "0.99.199: kolonna listida o'lchamlar (RS1B4 namunasi), sarlavhalar, шайбалар."
+  "version": "0.99.200",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.200.exe",
+  "sha256": "d2ea7123af07154b19eb75e377f3cffda0cbb29fb1ffcbd5ded616f001481a77",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.200.zip",
+  "zip_sha256": "461bab32c32392dd9cbba27bdbd490f5d79854865cbc849a3ea3e0d130cf5b1a",
+  "notes": "0.99.200: kolonna listida o'lchamlar (RS1B4 namunasi), plita otmetkalari, sarlavhalar."
 }
