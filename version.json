@@ -1,8 +1,8 @@
 {
-  "version": "0.99.184",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.184.exe",
-  "sha256": "768ff47e92d6ab9645b4a50f48f2bc31cd2ed6e5d92af41c2819eaf1a19b8045",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.184.zip",
-  "zip_sha256": "98a266aa56eceff1165e1da8e0fea3b93d9ec09e1553de5bd9e24c9fc96e4efd",
-  "notes": "0.99.184: ВРС — har list turi alohida ustunda (8 tagacha)."
+  "version": "0.99.185",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.185.exe",
+  "sha256": "ca3ef2953277a30af61b8d1e2450b9ab95c90393ae87428489658c384f3a8bad",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.185.zip",
+  "zip_sha256": "4b8bcef87724238b24813984b2d8a71e0cbda2b2561d6c4125e41c8936121721",
+  "notes": "0.99.185: ВРС — har list turi alohida ustunda (8 tagacha), jadval nomi bitta."
 }
