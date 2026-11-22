@@ -1,8 +1,8 @@
 {
-  "version": "0.99.232",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.232.exe",
-  "sha256": "1d7eac5f8d826d0eb1fc83b153882d8b81aa7e69f5313f65fc7910ee9162a588",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.232.zip",
-  "zip_sha256": "77c27a0e9d06e584a41826ff7ceae65d38867cf768ecef43035e758ed8564303",
-  "notes": "0.99.232: kesimlarda xomutlar to'liq, ortiqcha sterjenlar yo'q, kesim chegarasi tor va ko'rinmas, belgilar namunadagidek."
+  "version": "0.99.233",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.233.exe",
+  "sha256": "da0ec37734dbc9db82f54e36924ad563f801cb102de94bee77c1cd3b46e58202",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.233.zip",
+  "zip_sha256": "b5c9cec933813fc247467f5d1da3a475fefbf67e700089acf7df7df82d0120eb",
+  "notes": "0.99.233: mufta/payvand ulanishlar shaxmat; kesimlarda xomutlar to'liq; kesim belgilari namunadagidek."
 }
