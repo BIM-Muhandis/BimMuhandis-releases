@@ -1,8 +1,8 @@
 {
-  "version": "0.99.189",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.189.exe",
-  "sha256": "1f5b31fcdaab618f607fdc6039df922504b01cd3a5cad49140572611fb4ee804",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.189.zip",
-  "zip_sha256": "a953dc98f3a9e6c7d7143b3fad90b1c0e76a4830d004137886181494b9bc6f3d",
-  "notes": "0.99.189: kolonna kesimida шайбалар — oldingi qatori ko'rinadi (tepa va fundament)."
+  "version": "0.99.190",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.190.exe",
+  "sha256": "cea96dcfff331cd4b61caac6753bf686a481744c97f21caff0b68d9b4106181e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.190.zip",
+  "zip_sha256": "bfcdc1e1a6ead7c3c122b8b59ee497de1dcc461c555433afec8d2977e20de480",
+  "notes": "0.99.190: kolonna kesimlari har qavatda («по» yoki yangi kesim), listda ustma-ust."
 }
