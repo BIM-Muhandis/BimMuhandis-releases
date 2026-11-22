@@ -1,8 +1,8 @@
 {
-  "version": "0.99.219",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.219.exe",
-  "sha256": "a90a5a718203ac7ea80403de3891970f697ef756be04fad208ff7c9c768e4402",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.219.zip",
-  "zip_sha256": "896dac0cbfcb55b97ea673b1578b40e6fa70c619a51c6dc9ee15e620cfbfa579",
-  "notes": "0.99.219: kolonna markasi — avto yoki qo'lda (Км- + son/harf); ВРС list ustunlari jami bo'yicha."
+  "version": "0.99.220",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.220.exe",
+  "sha256": "8dd353a5f9296356ff615a3e94d26d94eac88b78d978410c3be548ca0e0df4e9",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.220.zip",
+  "zip_sha256": "3aa34493aca02fff8dde0db49f62114a43c98f9e1423f8af0aa27e5dcff940d3",
+  "notes": "0.99.220: o'rnatuvchi trey ilovasini o'zi yopadi (DeleteFile xatosi tuzatildi)."
 }
