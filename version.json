@@ -1,8 +1,8 @@
 {
-  "version": "0.99.159",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.159.exe",
-  "sha256": "09da644bfab5e386e109872020985958b4d451fa1eb1d6c4784b92446d074dac",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.159.zip",
-  "zip_sha256": "9aa640dc897647cf5f699ad95c908582914a48bfe590afa23080a409f66d9021",
-  "notes": "0.99.159: «Vidni ochish» — «Активировать вид» yonida."
+  "version": "0.99.160",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.160.exe",
+  "sha256": "124822c039745d672ec476b8619665b08afa900bbadb62c9189a8e6c54cbc971",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.160.zip",
+  "zip_sha256": "f002c1ba32032b59a89c0282755b6c8b0ccb17f5f960d5eefb8dc658a43c7214",
+  "notes": "0.99.160: выпуск — asosiy/yon alohida; fasad sxemasi ixcham."
 }
