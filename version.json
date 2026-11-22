@@ -1,8 +1,8 @@
 {
-  "version": "0.99.239",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.239.exe",
-  "sha256": "275984a0393775146c02ed3770b6062473901281313c8278c28199d13cb3f11d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.239.zip",
-  "zip_sha256": "fa1eed671a111ae573015a3c028522252dd1f38fd12a024204941678270ef534",
-  "notes": "0.99.239: kesim belgilari asl kesimning o'zi (ssilka emas)."
+  "version": "0.99.240",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.240.exe",
+  "sha256": "7023d9ce90ae4d7a490f8d33d50f845742afd500c8303a2a847ba091504bb9d0",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.240.zip",
+  "zip_sha256": "33d76d6a15b1e6719aeb06abd1855bc06fe43da4bef37ca9bb719661e1b65568",
+  "notes": "0.99.240: namuna kesimdan nusxa — tor chegara, asl kesim belgilari."
 }
