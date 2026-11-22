@@ -1,8 +1,8 @@
 {
-  "version": "0.99.183",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.183.exe",
-  "sha256": "a4f6ea98af9614d2b202bcec00e5ad4f932f557cbf365f12c5c6aac2894eb247",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.183.zip",
-  "zip_sha256": "68f6ed32a182f00d7173dee15d6b15d8e7ef84bc7287b65c1909119940756167",
-  "notes": "0.99.183: выпуск balandligi, zich zona (nahlyostsiz), xomut 3 ga bo'lib, obryv to'g'ri выпускда."
+  "version": "0.99.184",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.184.exe",
+  "sha256": "768ff47e92d6ab9645b4a50f48f2bc31cd2ed6e5d92af41c2819eaf1a19b8045",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.184.zip",
+  "zip_sha256": "98a266aa56eceff1165e1da8e0fea3b93d9ec09e1553de5bd9e24c9fc96e4efd",
+  "notes": "0.99.184: ВРС — har list turi alohida ustunda (8 tagacha)."
 }
