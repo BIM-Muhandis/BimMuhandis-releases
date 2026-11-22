@@ -1,8 +1,8 @@
 {
-  "version": "0.99.166",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.166.exe",
-  "sha256": "70a670e0c5ff86f6a28ef88c7e968d3591e0c44281fe50ee75cfe3dda354fde8",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.166.zip",
-  "zip_sha256": "cb7ee7772000ba77b8b785a31c5bc94a2b91d353729813534f1e0b998be6cb51",
-  "notes": "0.99.166: kesimlarda chegara chizig'i yo'q; jadvallar ustma-ust tushmaydi; list o'lchami mazmunga qarab."
+  "version": "0.99.167",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.167.exe",
+  "sha256": "bb6929257148b86dcf82cfc156e3b13355e95eeb2ef89773d7538431ac4e8168",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.167.zip",
+  "zip_sha256": "d90efaff1e819302a86feaa283b654d64a21f5ab569e6a377969bf5187ee0984",
+  "notes": "0.99.167: listlar har qanday uzunlikdagi kolonna uchun; obryv mustahkamlandi."
 }
