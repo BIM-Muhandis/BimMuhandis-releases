@@ -1,8 +1,8 @@
 {
-  "version": "0.99.226",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.226.exe",
-  "sha256": "6c56a51d9072da80aebf37f48e46a2c17c9ef3265da35c651fe397f93f10d053",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.226.zip",
-  "zip_sha256": "11e7f6b995d31d0f3110a1b47eb8bb587e962c9cc73d10420163e0498ecede5d",
-  "notes": "0.99.226: kolonna kesim belgilari namunadagidek (qisqa, ortiqcha chiziqsiz)."
+  "version": "0.99.227",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.227.exe",
+  "sha256": "41c6d51af5725aeeaeec8148f03f7ab354152395b449520b24787a08b21396a9",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.227.zip",
+  "zip_sha256": "0648f1727cdb01454beb087c729bc2838290ec1ea1d0f3fe044e19b2f3ae4bf8",
+  "notes": "0.99.227: kesim belgilari namunadagidek; chap/pastki o'rta sterjenlar markasi kolonna ichida."
 }
