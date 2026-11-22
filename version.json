@@ -1,8 +1,8 @@
 {
-  "version": "0.99.160",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.160.exe",
-  "sha256": "124822c039745d672ec476b8619665b08afa900bbadb62c9189a8e6c54cbc971",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.160.zip",
-  "zip_sha256": "f002c1ba32032b59a89c0282755b6c8b0ccb17f5f960d5eefb8dc658a43c7214",
-  "notes": "0.99.160: выпуск — asosiy/yon alohida; fasad sxemasi ixcham."
+  "version": "0.99.161",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.161.exe",
+  "sha256": "209d6736df8f50f077abd675400ff31e23d2a99487f8b750bfcf8d3064b50de0",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.161.zip",
+  "zip_sha256": "3ec81c43347a24e184a0937baaec9d7bbbc4714ce2842f70d803e7991ffa0ede",
+  "notes": "0.99.161: obryv — armaturadan 10 mm keyin, подготовка hisobga olinadi."
 }
