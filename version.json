@@ -1,8 +1,8 @@
 {
-  "version": "0.99.176",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.176.exe",
-  "sha256": "a510be2204234d74db17cd1b2aaa00caa84bdaa5b7ebe2b7a05804cbf497abd4",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.176.zip",
-  "zip_sha256": "43b6084b428bbee22c376fa5c8a7b1d35ec0057dd038f22415a9d6eedb88a860",
-  "notes": "0.99.176: yon sterjenlarga ikki diametr; birlashgan ВРС, ГОСТ 19903-2015."
+  "version": "0.99.177",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.177.exe",
+  "sha256": "454c02114031e7c038d1389649ae63cad801b8d1f1db363f12e67bef4d58cc12",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.177.zip",
+  "zip_sha256": "333f5f8473f4d9f6bd0cd638737de4e98ad8fb4a69664a280abbf1660606a84e",
+  "notes": "0.99.177: yon sterjenlar — b va h uchun alohida Ø va sinf."
 }
