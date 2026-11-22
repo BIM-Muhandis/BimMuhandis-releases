@@ -1,8 +1,8 @@
 {
-  "version": "0.99.175",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.175.exe",
-  "sha256": "a7defd1bc87decbf653fc54c1b9b46608519f041ff00a728fab121134fe2d582",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.175.zip",
-  "zip_sha256": "3742744d94dca0909a59dd7364ca72b9b057e7bb37d8bb3ecc0a202a9f6ceda4",
-  "notes": "0.99.175: yon sterjenlarga ikki diametr; birlashgan ВРС, ГОСТ 19903-2015."
+  "version": "0.99.176",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.176.exe",
+  "sha256": "a510be2204234d74db17cd1b2aaa00caa84bdaa5b7ebe2b7a05804cbf497abd4",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.176.zip",
+  "zip_sha256": "43b6084b428bbee22c376fa5c8a7b1d35ec0057dd038f22415a9d6eedb88a860",
+  "notes": "0.99.176: yon sterjenlarga ikki diametr; birlashgan ВРС, ГОСТ 19903-2015."
 }
