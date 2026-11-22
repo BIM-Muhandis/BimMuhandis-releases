@@ -1,8 +1,8 @@
 {
-  "version": "0.99.172",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.172.exe",
-  "sha256": "d41147459184c6df0ce5cb7352b80c8868c732bec249909d452bea470b40a02a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.172.zip",
-  "zip_sha256": "e165d1a8703bbfb2376312763897aa1155c968d26953195cd90d5744cd0a5615",
-  "notes": "0.99.172: listda ВРС — firma shabloni + «Изделия закладные» (0)."
+  "version": "0.99.173",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.173.exe",
+  "sha256": "b5ad701cdc732316c14ab20c6abf7630edba8a14b5676a05aa04e35f5e163152",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.173.zip",
+  "zip_sha256": "915051bf76243826a2e841927623076d9a71c18cbfff1bcbec19148d6dac84ab",
+  "notes": "0.99.173: listda bitta birlashgan ВРС (armatura + закладные)."
 }
