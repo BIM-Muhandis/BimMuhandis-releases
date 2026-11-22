@@ -1,8 +1,8 @@
 {
-  "version": "0.99.195",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.195.exe",
-  "sha256": "5ce939c874cc2e889a930b509f6ea209f1c586fb48335003ca74306c5d4fa284",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.195.zip",
-  "zip_sha256": "0195c3ef2fc3b81b4d49b3f162e481f1424114199e27d2fb98c439462c2a07e9",
-  "notes": "0.99.195: kolonna oynasida «tugundan» va «pastdan» rasmda belgilangan; kesimlar har qavatda («по»)."
+  "version": "0.99.196",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.196.exe",
+  "sha256": "7dce63645456e67176ed0a6c240851d7bcd81f55fb0a17fff4eab0901e2e6a0a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.196.zip",
+  "zip_sha256": "2f49633037dd06766cf7f0a7217c807ffba026a85e4ac4468d9782fcf6aa465b",
+  "notes": "0.99.196: kolonna kesimida шайбалар ko'rinadi; oynada «tugundan» va «pastdan» rasmda belgilangan."
 }
