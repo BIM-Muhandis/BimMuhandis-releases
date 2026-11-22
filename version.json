@@ -1,8 +1,8 @@
 {
-  "version": "0.99.240",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.240.exe",
-  "sha256": "7023d9ce90ae4d7a490f8d33d50f845742afd500c8303a2a847ba091504bb9d0",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.240.zip",
-  "zip_sha256": "33d76d6a15b1e6719aeb06abd1855bc06fe43da4bef37ca9bb719661e1b65568",
-  "notes": "0.99.240: namuna kesimdan nusxa — tor chegara, asl kesim belgilari."
+  "version": "0.99.241",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.241.exe",
+  "sha256": "1ad35b51489e5c33e91492fb62512f756f032ddd71be6a8b8bcf582b85d33ac6",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.241.zip",
+  "zip_sha256": "0a32555fe4af716be18ff0dcfd8dbd07fa44360b68ae2009fdb6e42ef99f125a",
+  "notes": "0.99.241: «tugundan» tepa uchun alohida maydon."
 }
