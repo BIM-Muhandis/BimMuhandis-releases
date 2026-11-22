@@ -1,8 +1,8 @@
 {
-  "version": "0.99.168",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.168.exe",
-  "sha256": "dd086f2efcaed47517cb2f331aed8cdf46ce40ab1b9f2e3198e20d25c6b76595",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.168.zip",
-  "zip_sha256": "b8de1fa387afd9cb4dbcc70a007d47b6977c34110b5e3a8be0d29ddfb9048ca9",
-  "notes": "0.99.168: spetsifikatsiyada bo'sh «Поз.» tuzatildi."
+  "version": "0.99.169",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.169.exe",
+  "sha256": "501b59f79464289a39012273166eae0973d0b9779a7f54c2d2009569934778b4",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.169.zip",
+  "zip_sha256": "8d0575896b3d2cab6d84585b153af6402a3908a8d6ff91daf451495973210ff2",
+  "notes": "0.99.169: obryvlar o'chib ketishi tuzatildi; подготовка; bo'sh «Поз.»."
 }
