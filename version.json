@@ -1,8 +1,8 @@
 {
-  "version": "0.99.181",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.181.exe",
-  "sha256": "13bd1db2f96b0e4f93b02eedacba9623bcb8f8e3aab19d2dde164cf3d5061e93",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.181.zip",
-  "zip_sha256": "081a957a9f4c6fc7cab0de83bde47b2fcd9beec1d28c6577dd51a71b538b0523",
-  "notes": "0.99.181: выпусклар tipi va kommentariyasi; выпуск шайбалари fundamentga; obryv; yon sterjenlar b/h alohida."
+  "version": "0.99.182",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.182.exe",
+  "sha256": "6bea4abfc6d030ee0c88cc6af72efcee37c3109d000c29e5dd85a8330ca1d9b1",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.182.zip",
+  "zip_sha256": "09daf61d1042d8dc7d83d491960ff82ea2dc541a29c7b11c82017dd04d80eb4a",
+  "notes": "0.99.182: fundamentdagi выпуск шайбаларига ham «Км-n выпуск» kommentariyasi."
 }
