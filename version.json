@@ -1,8 +1,8 @@
 {
-  "version": "0.99.218",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.218.exe",
-  "sha256": "fa08580a8638211e01a9b5f886a4666f401ac60cbf9e87f617eb2c67f9e94253",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.218.zip",
-  "zip_sha256": "f4ead8bf4c531aadc4bfb86b3edbf878c263edd85b0a6b6fa13b2b76a2201994",
-  "notes": "0.99.218: ВРС list ustunlari jami bo'yicha; шайба markalari; kolonna markasi."
+  "version": "0.99.219",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.219.exe",
+  "sha256": "a90a5a718203ac7ea80403de3891970f697ef756be04fad208ff7c9c768e4402",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.219.zip",
+  "zip_sha256": "896dac0cbfcb55b97ea673b1578b40e6fa70c619a51c6dc9ee15e620cfbfa579",
+  "notes": "0.99.219: kolonna markasi — avto yoki qo'lda (Км- + son/harf); ВРС list ustunlari jami bo'yicha."
 }
