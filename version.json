@@ -1,8 +1,8 @@
 {
-  "version": "0.99.225",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.225.exe",
-  "sha256": "391bc3519f1ebc85ddc53ce78d09b98c9fb9cbf4f5777fd88e358bb4c0aa7277",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.225.zip",
-  "zip_sha256": "b3d95b11bdd3e9c427fd1913d7a5edf0ba439dd91fd9ad0a98704bc1ce84cbfc",
-  "notes": "0.99.225: asosiy kesimlar haqiqiy kesim, kesim o'lchamlari har qavatda, rigel osti otmetkasi to'g'ri."
+  "version": "0.99.226",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.226.exe",
+  "sha256": "6c56a51d9072da80aebf37f48e46a2c17c9ef3265da35c651fe397f93f10d053",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.226.zip",
+  "zip_sha256": "11e7f6b995d31d0f3110a1b47eb8bb587e962c9cc73d10420163e0498ecede5d",
+  "notes": "0.99.226: kolonna kesim belgilari namunadagidek (qisqa, ortiqcha chiziqsiz)."
 }
