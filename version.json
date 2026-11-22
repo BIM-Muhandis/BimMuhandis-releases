@@ -1,8 +1,8 @@
 {
-  "version": "0.99.179",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.179.exe",
-  "sha256": "99fc8e94bf4056b0ef5cd13a1714302746b17dec8087b13d46f9dd4ed89716c3",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.179.zip",
-  "zip_sha256": "01d1b6f28280b6594fa9a81640b6eb1c345ff34a0da57db8456094d750d91e18",
-  "notes": "0.99.179: obryv fundament qalinligini to'liq qamraydi; yon sterjenlar — b va h uchun alohida Ø va sinf."
+  "version": "0.99.180",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.180.exe",
+  "sha256": "d51bd216d63ac15cf208486683c2ab9ef900ae76cd7c0c13c3093ba8ac721d29",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.180.zip",
+  "zip_sha256": "652c4b85bdc26b31f92e2b0e603b732d858d09d876394fba7ed2f2ce5b2f6d4a",
+  "notes": "0.99.180: выпуск шайбалари fundamentga; ВРС shabloni tozalandi; obryv tuzatildi."
 }
