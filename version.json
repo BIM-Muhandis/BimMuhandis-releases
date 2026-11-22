@@ -1,8 +1,8 @@
 {
-  "version": "0.99.204",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.204.exe",
-  "sha256": "e91f611200c41eeb1b0a8551eeb2cca8ed04cdd812e2f1b80cb7a76b62de712c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.204.zip",
-  "zip_sha256": "632593ae7bca95e2724cfdbc0ea85358323460b6ea66ca7725275ede39c008ab",
-  "notes": "0.99.204: kolonna listida o'lchamlar va otmetkalar (obryvdan bir xil masofada), ko'rinish ramkadan 15 mm ichkarida."
+  "version": "0.99.205",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.205.exe",
+  "sha256": "6326dde82697bbf57ca348e4a694084142ffae7696db700d9ea96be1a926596d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.205.zip",
+  "zip_sha256": "f3d4693819b1a0060a769efd6e0d1b06dfd8033f789e2b7f98a22efa736d8993",
+  "notes": "0.99.205: kolonna listida o'qlar namunadagidek, o'lchamlar va otmetkalar."
 }
