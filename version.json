@@ -1,8 +1,8 @@
 {
-  "version": "0.99.164",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.164.exe",
-  "sha256": "4174b7c0af05f550f9f0c81ec2a5852e249a5c490f3eaed27b17d44521ba3239",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.164.zip",
-  "zip_sha256": "1aaceb23f4ed99b960512f6063acea0d5917cc039010283f7e9238811c04f8d4",
-  "notes": "0.99.164: listda avtomatik obryv; spetsifikatsiya «деталями»; jadvallar ramkaga va bir-biriga tegib."
+  "version": "0.99.165",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.165.exe",
+  "sha256": "c7657782b164bfb1e228bd0f30be4fa7ff6f7270600ced64c5156fc71b5de856",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.165.zip",
+  "zip_sha256": "948f8fd1d5dad1767487dbb7c31ddb345ab33c189fb673677315b15a0c4c1f23",
+  "notes": "0.99.165: jadvallar ustma-ust tushmaydi; list o'lchami mazmunga qarab."
 }
