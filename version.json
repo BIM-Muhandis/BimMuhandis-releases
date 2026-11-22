@@ -1,8 +1,8 @@
 {
-  "version": "0.99.170",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.170.exe",
-  "sha256": "6b795950034e9c02af2ba50d2bda25cc4eb6dae6777dbb2a0a19748b3aee900d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.170.zip",
-  "zip_sha256": "ca4b9646350a72176cb5ffa9b885d3d1fe21dee64d131e7213de5656645e1ffb",
-  "notes": "0.99.170: listdagi ВРС ga шайбалар (закладные) qo'shiladi."
+  "version": "0.99.171",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.171.exe",
+  "sha256": "9bfb813ae0bf7b2f9c41e9c9ded3dc12cfb2616e295d781d5a9ef6ff6b220dfd",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.171.zip",
+  "zip_sha256": "5d28de2cbef1b5883b28c2377371ec6fec75ab1fde0eb35946cf4a3bebf199e4",
+  "notes": "0.99.171: listdagi ВРС ga шайбалар (закладные) qo'shiladi; obryv va pozitsiya tuzatishlari."
 }
