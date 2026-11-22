@@ -1,8 +1,8 @@
 {
-  "version": "0.99.187",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.187.exe",
-  "sha256": "766864077cd2fa4f25bb27a52768a3697dc073e9cf6a5eaa983dff9d67021590",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.187.zip",
-  "zip_sha256": "93e48393674ccc4841cd1cced4264d42e03992128bd5d8b41e612c9829e167ca",
-  "notes": "0.99.187: ВРС shapkasi markazda; har list turi alohida ustunda."
+  "version": "0.99.188",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.188.exe",
+  "sha256": "3f8e8e6aeb62c3aa37ef29ea5b8fb78ea6771a0361b2a07ce169ba2305216602",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.188.zip",
+  "zip_sha256": "8c8b57bfd552f74ea0e0558a7c241391a0cba0a60e8d27b1586e280547a86fa0",
+  "notes": "0.99.188: kolonna kesimida orqadagi шайбалар yashiriladi; ВРС shapkasi markazda."
 }
