@@ -1,8 +1,8 @@
 {
-  "version": "0.99.221",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.221.exe",
-  "sha256": "c7df0a7ac2a10f94f58346bd711258f5616071346855af02cdf403e5474f8a42",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.221.zip",
-  "zip_sha256": "095c60eb68ad662cab58049b69b45ad4895991080a29b12165521e04aca02218",
-  "notes": "0.99.221: kolonna kesimlarida o'lchamlar va o'qlar (namuna bo'yicha)."
+  "version": "0.99.222",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.222.exe",
+  "sha256": "0076d3674ac44b9e630cd6d596546afc816e8d39fdcd7e8ad2dac10a4c213b1f",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.222.zip",
+  "zip_sha256": "2bdc3d32af34eebece8ef95271658766710a13f0dd68788394b526fa5a061ee4",
+  "notes": "0.99.222: kolonna kesimlarida o'lchamlar va o'qlar (namuna bo'yicha)."
 }
