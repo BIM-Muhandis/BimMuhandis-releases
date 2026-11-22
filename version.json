@@ -1,8 +1,8 @@
 {
-  "version": "0.99.205",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.205.exe",
-  "sha256": "6326dde82697bbf57ca348e4a694084142ffae7696db700d9ea96be1a926596d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.205.zip",
-  "zip_sha256": "f3d4693819b1a0060a769efd6e0d1b06dfd8033f789e2b7f98a22efa736d8993",
-  "notes": "0.99.205: kolonna listida o'qlar namunadagidek, o'lchamlar va otmetkalar."
+  "version": "0.99.206",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.206.exe",
+  "sha256": "e191c6f82d8fc8bb08c7c14fa9a3c2b82f92c7cbbe6bb77172894835e082d82d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.206.zip",
+  "zip_sha256": "cd1e13f51fd476a4a21da1833eb8dae124377f6fd7ce46052c1fe428d6f15c61",
+  "notes": "0.99.206: kolonna listida kesim belgilari va o'qlar namunadagidek, o'lchamlar va otmetkalar."
 }
