@@ -1,8 +1,8 @@
 {
-  "version": "0.99.208",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.208.exe",
-  "sha256": "588f91db61ea40e08ad487e54b4f9660c61e675e983a1b3e8a1ce2def9455075",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.208.zip",
-  "zip_sha256": "d55888ad46d66edb4ec7fc91e8efbf2682730ef8ca220947bfcf76518b78c030",
-  "notes": "0.99.208: kolonna listi joylashuvi tuzatildi; kesim belgilari, o'qlar, o'lchamlar va otmetkalar."
+  "version": "0.99.209",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.209.exe",
+  "sha256": "f14a1e6c2a28b7f12faf80897d5330ac5dc3a0360a0dcc3b3b35aba826c3fd44",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.209.zip",
+  "zip_sha256": "1119f5115c69f784bf8df9a5b4cc982139da2e2f63ea3f92309d0e28f1cf93f5",
+  "notes": "0.99.209: kesim belgilari (o'rtasi ochiq), kolonna listi joylashuvi, o'qlar, o'lchamlar va otmetkalar."
 }
