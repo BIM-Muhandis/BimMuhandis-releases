@@ -1,8 +1,8 @@
 {
-  "version": "0.99.233",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.233.exe",
-  "sha256": "da0ec37734dbc9db82f54e36924ad563f801cb102de94bee77c1cd3b46e58202",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.233.zip",
-  "zip_sha256": "b5c9cec933813fc247467f5d1da3a475fefbf67e700089acf7df7df82d0120eb",
-  "notes": "0.99.233: mufta/payvand ulanishlar shaxmat; kesimlarda xomutlar to'liq; kesim belgilari namunadagidek."
+  "version": "0.99.234",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.234.exe",
+  "sha256": "105036a9add1cffcfa0537a4ac0a3116af1c2114b47e2472ac164dc8fd4882da",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.234.zip",
+  "zip_sha256": "c22cce9adf14587683eac3477f08a3392f02f29e28e9593cfebf54e37cc24236",
+  "notes": "0.99.234: kesim belgilari namunadagidek; xomutlar to'liq; mufta/payvand shaxmat; o'rta sterjen markalari alohida."
 }
