@@ -1,8 +1,8 @@
 {
-  "version": "0.99.224",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.224.exe",
-  "sha256": "d23dc20e6fb7bd368eedbb9662b809beb75886883b178104511b3dbefeaef3db",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.224.zip",
-  "zip_sha256": "22ddb67f7ac8edc5634c5595f072e2dd8ed1f5fcc07e8586199626980e424aee",
-  "notes": "0.99.224: kesimlarda barcha sterjenlarga pozitsiya, Ведомость деталей 2 bo'lakda, eski takror jadvallar o'chiriladi."
+  "version": "0.99.225",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.225.exe",
+  "sha256": "391bc3519f1ebc85ddc53ce78d09b98c9fb9cbf4f5777fd88e358bb4c0aa7277",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.225.zip",
+  "zip_sha256": "b3d95b11bdd3e9c427fd1913d7a5edf0ba439dd91fd9ad0a98704bc1ce84cbfc",
+  "notes": "0.99.225: asosiy kesimlar haqiqiy kesim, kesim o'lchamlari har qavatda, rigel osti otmetkasi to'g'ri."
 }
