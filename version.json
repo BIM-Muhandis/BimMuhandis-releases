@@ -1,8 +1,8 @@
 {
-  "version": "0.99.161",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.161.exe",
-  "sha256": "209d6736df8f50f077abd675400ff31e23d2a99487f8b750bfcf8d3064b50de0",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.161.zip",
-  "zip_sha256": "3ec81c43347a24e184a0937baaec9d7bbbc4714ce2842f70d803e7991ffa0ede",
-  "notes": "0.99.161: obryv — armaturadan 10 mm keyin, подготовка hisobga olinadi."
+  "version": "0.99.162",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.162.exe",
+  "sha256": "a7cda3f0afb97f5a529aa0af9bf6bcbf6708f632a27e5a1fa0d622abd940fa7b",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.162.zip",
+  "zip_sha256": "408a1f497f07040f3549099e680bf197fd218d06f50f349af75089c3c991b95e",
+  "notes": "0.99.162: kolonna fasad sxemasi — plita/balka toraytirildi."
 }
