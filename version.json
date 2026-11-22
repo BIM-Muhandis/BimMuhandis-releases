@@ -1,8 +1,8 @@
 {
-  "version": "0.99.214",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.214.exe",
-  "sha256": "5222948004674f9826f9879070ed100d0b4b189fb0f872cd0f3e58d9cc36eefc",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.214.zip",
-  "zip_sha256": "32eb0a31c7388ce5b9162676962c6a4ba4cab7cded399d6337a3375301f42835",
-  "notes": "0.99.214: kolonna markasi takrorlanmaydi (keyingi Км-n); rigel pasti otmetkasi; list joylashuvi."
+  "version": "0.99.215",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.215.exe",
+  "sha256": "57ba1e2cf8e817df71e13622b9da9743a3d40d6d985e8e2bd165c8d75dba6808",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.215.zip",
+  "zip_sha256": "4121ac94691c749240478eab12606ef3ab5f3270651767e49ccb2fa050a09f3b",
+  "notes": "0.99.215: kolonna markasi qo'lda yoki avtomat (takrorlanmaydi); otmetkalar, list joylashuvi."
 }
