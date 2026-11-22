@@ -1,8 +1,8 @@
 {
-  "version": "0.99.180",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.180.exe",
-  "sha256": "d51bd216d63ac15cf208486683c2ab9ef900ae76cd7c0c13c3093ba8ac721d29",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.180.zip",
-  "zip_sha256": "652c4b85bdc26b31f92e2b0e603b732d858d09d876394fba7ed2f2ce5b2f6d4a",
-  "notes": "0.99.180: выпуск шайбалари fundamentga; ВРС shabloni tozalandi; obryv tuzatildi."
+  "version": "0.99.181",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.181.exe",
+  "sha256": "13bd1db2f96b0e4f93b02eedacba9623bcb8f8e3aab19d2dde164cf3d5061e93",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.181.zip",
+  "zip_sha256": "081a957a9f4c6fc7cab0de83bde47b2fcd9beec1d28c6577dd51a71b538b0523",
+  "notes": "0.99.181: выпусклар tipi va kommentariyasi; выпуск шайбалари fundamentga; obryv; yon sterjenlar b/h alohida."
 }
