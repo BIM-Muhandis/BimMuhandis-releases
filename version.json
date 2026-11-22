@@ -1,8 +1,8 @@
 {
-  "version": "0.99.235",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.235.exe",
-  "sha256": "7152bd6d28b9f6e85cb2f37dd30684b37e34b06394978f9e76b6687be66ff6c2",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.235.zip",
-  "zip_sha256": "3abf154d9b0e096ed0694a4cf7b8942d0d8281a67c8200b0d4a1e7b4a75d45e3",
-  "notes": "0.99.235: ko'ndalang kesimlar har doim tartib bilan bo'ylama kesim yonida."
+  "version": "0.99.236",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.236.exe",
+  "sha256": "856902ef1a0ac6834fa4bab6d1d58cd90903fe4ac41c3d7690340e52e86834b2",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.236.zip",
+  "zip_sha256": "d8662dc75ba841fbd069cee7ce683908a47af7fc7906a03cb895f6094371f5a3",
+  "notes": "0.99.236: ko'ndalang kesim sarlavhasi masshtabli."
 }
