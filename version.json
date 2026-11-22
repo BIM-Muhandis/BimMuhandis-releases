@@ -1,8 +1,8 @@
 {
-  "version": "0.99.241",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.241.exe",
-  "sha256": "1ad35b51489e5c33e91492fb62512f756f032ddd71be6a8b8bcf582b85d33ac6",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.241.zip",
-  "zip_sha256": "0a32555fe4af716be18ff0dcfd8dbd07fa44360b68ae2009fdb6e42ef99f125a",
-  "notes": "0.99.241: «tugundan» tepa uchun alohida maydon."
+  "version": "0.99.242",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.242.exe",
+  "sha256": "a5e5df8c18b35ed30643711f72898fa5c0aabece5f940b8e6df5e787ec5a81d0",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.242.zip",
+  "zip_sha256": "6328d1be756bbec45fcdc38f8f7a71d9e34a448ca3d4388d45224a2eba366ff9",
+  "notes": "0.99.242: bitta detalli vedomost bo'linmaydi; kesimlar bo'ylama kesim yonida."
 }
