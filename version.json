@@ -1,8 +1,8 @@
 {
-  "version": "0.99.230",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.230.exe",
-  "sha256": "6473dc983610c483e393fa219b0b57870b850e642ec056b6819aee8ac5ee94d9",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.230.zip",
-  "zip_sha256": "b7aff30fa8ea94f5e61c938b16c1e9ea8f74bb2b2f86422e31e268c27aabd340",
-  "notes": "0.99.230: kesim belgilari namunadagidek, ko'ndalang kesim chegarasi tor va ko'rinmas."
+  "version": "0.99.231",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.231.exe",
+  "sha256": "698f4f6c1900729eab053504ce5afaa87355f1e8de56cbb6e4c5e8eba2c16fe2",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.231.zip",
+  "zip_sha256": "11b501a089d27bd50b5b59e5b66519f4ea82c641b8ca05050c521ead47ce15c4",
+  "notes": "0.99.231: kesimlarda xomutlar to'liq, kesim chegarasi tor va ko'rinmas, belgilar namunadagidek."
 }
