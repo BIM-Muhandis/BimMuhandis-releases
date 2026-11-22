@@ -1,8 +1,8 @@
 {
-  "version": "0.99.197",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.197.exe",
-  "sha256": "b0ab03834c57236d6f62c44e4654c18a5a2603489fdc6c09089a1be411eb0bb5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.197.zip",
-  "zip_sha256": "ffef815f6bb0a78b7c762013d2574426b9192018a08b286c5e5154681114c39e",
-  "notes": "0.99.197: kolonna listida ko'rinish sarlavhalari (ustida); шайбалар ko'rinadi."
+  "version": "0.99.198",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.198.exe",
+  "sha256": "979824f52192f17c0210352de0988b96e3fbfb9152df37d059e8d906620239b9",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.198.zip",
+  "zip_sha256": "d83987ce2151e520aabd243206409a5f1f3f97fcb39477b30f3763b340c7f18f",
+  "notes": "0.99.198: kolonna listida ko'rinish sarlavhalari (namunadagidek); шайбалар ko'rinadi."
 }
