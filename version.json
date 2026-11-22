@@ -1,8 +1,8 @@
 {
-  "version": "0.99.194",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.194.exe",
-  "sha256": "1f05009ca88e139b8a533364993f7c32c0f36b2c878128fca72314aed8d3d137",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.194.zip",
-  "zip_sha256": "31ca65328020e50477160959ec1dd3b75a3ed88634af8ec59287348818efaf56",
-  "notes": "0.99.194: kolonna oynasida «tugundan» rasmda belgilangan; kesimlar har qavatda («по»)."
+  "version": "0.99.195",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.195.exe",
+  "sha256": "5ce939c874cc2e889a930b509f6ea209f1c586fb48335003ca74306c5d4fa284",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.195.zip",
+  "zip_sha256": "0195c3ef2fc3b81b4d49b3f162e481f1424114199e27d2fb98c439462c2a07e9",
+  "notes": "0.99.195: kolonna oynasida «tugundan» va «pastdan» rasmda belgilangan; kesimlar har qavatda («по»)."
 }
