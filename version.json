@@ -1,8 +1,8 @@
 {
-  "version": "0.99.227",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.227.exe",
-  "sha256": "41c6d51af5725aeeaeec8148f03f7ab354152395b449520b24787a08b21396a9",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.227.zip",
-  "zip_sha256": "0648f1727cdb01454beb087c729bc2838290ec1ea1d0f3fe044e19b2f3ae4bf8",
-  "notes": "0.99.227: kesim belgilari namunadagidek; chap/pastki o'rta sterjenlar markasi kolonna ichida."
+  "version": "0.99.228",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.228.exe",
+  "sha256": "2f608a43535c9a851b86e324356c46076b2e5e856bd58c4eb3d31d438ec4069a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.228.zip",
+  "zip_sha256": "7f2c77e1cfa732d1c9653ab71bf60cbce4a344d7e6dd1f66d55f112c1d61b6e3",
+  "notes": "0.99.228: kesim belgilari namunadagidek; ichki marka; bitta qatorli Ведомость деталей bo'linmaydi."
 }
