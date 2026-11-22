@@ -1,8 +1,8 @@
 {
-  "version": "0.99.171",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.171.exe",
-  "sha256": "9bfb813ae0bf7b2f9c41e9c9ded3dc12cfb2616e295d781d5a9ef6ff6b220dfd",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.171.zip",
-  "zip_sha256": "5d28de2cbef1b5883b28c2377371ec6fec75ab1fde0eb35946cf4a3bebf199e4",
-  "notes": "0.99.171: listdagi ВРС ga шайбалар (закладные) qo'shiladi; obryv va pozitsiya tuzatishlari."
+  "version": "0.99.172",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.172.exe",
+  "sha256": "d41147459184c6df0ce5cb7352b80c8868c732bec249909d452bea470b40a02a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.172.zip",
+  "zip_sha256": "e165d1a8703bbfb2376312763897aa1155c968d26953195cd90d5744cd0a5615",
+  "notes": "0.99.172: listda ВРС — firma shabloni + «Изделия закладные» (0)."
 }
