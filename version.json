@@ -1,8 +1,8 @@
 {
-  "version": "0.99.236",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.236.exe",
-  "sha256": "856902ef1a0ac6834fa4bab6d1d58cd90903fe4ac41c3d7690340e52e86834b2",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.236.zip",
-  "zip_sha256": "d8662dc75ba841fbd069cee7ce683908a47af7fc7906a03cb895f6094371f5a3",
-  "notes": "0.99.236: ko'ndalang kesim sarlavhasi masshtabli."
+  "version": "0.99.237",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.237.exe",
+  "sha256": "d20f5470cb2eb55a867e48c1b8b67d29c4ac3785ddedc9beb97f4c77d82a2c50",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.237.zip",
+  "zip_sha256": "2a15050701c5529365ff4dd86b91daaff9183a9b1854866f83a5b4d77269ec78",
+  "notes": "0.99.237: ko'ndalang kesim chegarasi tor, belgilar joyida."
 }
