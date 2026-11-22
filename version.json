@@ -1,8 +1,8 @@
 {
-  "version": "0.99.231",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.231.exe",
-  "sha256": "698f4f6c1900729eab053504ce5afaa87355f1e8de56cbb6e4c5e8eba2c16fe2",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.231.zip",
-  "zip_sha256": "11b501a089d27bd50b5b59e5b66519f4ea82c641b8ca05050c521ead47ce15c4",
-  "notes": "0.99.231: kesimlarda xomutlar to'liq, kesim chegarasi tor va ko'rinmas, belgilar namunadagidek."
+  "version": "0.99.232",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.232.exe",
+  "sha256": "1d7eac5f8d826d0eb1fc83b153882d8b81aa7e69f5313f65fc7910ee9162a588",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.232.zip",
+  "zip_sha256": "77c27a0e9d06e584a41826ff7ceae65d38867cf768ecef43035e758ed8564303",
+  "notes": "0.99.232: kesimlarda xomutlar to'liq, ortiqcha sterjenlar yo'q, kesim chegarasi tor va ko'rinmas, belgilar namunadagidek."
 }
