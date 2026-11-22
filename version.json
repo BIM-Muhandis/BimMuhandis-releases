@@ -1,8 +1,8 @@
 {
-  "version": "0.99.169",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.169.exe",
-  "sha256": "501b59f79464289a39012273166eae0973d0b9779a7f54c2d2009569934778b4",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.169.zip",
-  "zip_sha256": "8d0575896b3d2cab6d84585b153af6402a3908a8d6ff91daf451495973210ff2",
-  "notes": "0.99.169: obryvlar o'chib ketishi tuzatildi; подготовка; bo'sh «Поз.»."
+  "version": "0.99.170",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.170.exe",
+  "sha256": "6b795950034e9c02af2ba50d2bda25cc4eb6dae6777dbb2a0a19748b3aee900d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.170.zip",
+  "zip_sha256": "ca4b9646350a72176cb5ffa9b885d3d1fe21dee64d131e7213de5656645e1ffb",
+  "notes": "0.99.170: listdagi ВРС ga шайбалар (закладные) qo'shiladi."
 }
