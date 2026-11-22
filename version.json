@@ -1,8 +1,8 @@
 {
-  "version": "0.99.162",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.162.exe",
-  "sha256": "a7cda3f0afb97f5a529aa0af9bf6bcbf6708f632a27e5a1fa0d622abd940fa7b",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.162.zip",
-  "zip_sha256": "408a1f497f07040f3549099e680bf197fd218d06f50f349af75089c3c991b95e",
-  "notes": "0.99.162: kolonna fasad sxemasi — plita/balka toraytirildi."
+  "version": "0.99.163",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.163.exe",
+  "sha256": "3802f4cba6ad32e8c938c2c24a413fc7b807d4343606ddfe90914d973127b216",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.163.zip",
+  "zip_sha256": "1bba61b91b7ed281bd4dec2c310b739443e241bd4cfc650d7188000aa837c04f",
+  "notes": "0.99.163: «Asosiy — tepada» yon tepadagidek."
 }
