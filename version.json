@@ -1,8 +1,8 @@
 {
-  "version": "0.99.242",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.242.exe",
-  "sha256": "a5e5df8c18b35ed30643711f72898fa5c0aabece5f940b8e6df5e787ec5a81d0",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.242.zip",
-  "zip_sha256": "6328d1be756bbec45fcdc38f8f7a71d9e34a448ca3d4388d45224a2eba366ff9",
-  "notes": "0.99.242: bitta detalli vedomost bo'linmaydi; kesimlar bo'ylama kesim yonida."
+  "version": "0.99.243",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.243.exe",
+  "sha256": "2b525997c3e25964d5fc9b90940dc9d81155082e7e52bc2e8d2a71bf793e2950",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.243.zip",
+  "zip_sha256": "703738520dccd5668bf3e915f6081354c2bff23b8e9b927c31e8422cd2aa4198",
+  "notes": "0.99.243: kolonna oynasidagi 'xft' xatosi tuzatildi."
 }
