@@ -1,8 +1,8 @@
 {
-  "version": "0.99.211",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.211.exe",
-  "sha256": "da60c1e8ad57f6ab7e4bd7eb79a4ac59980d095cfe988a42892d734a0e96e109",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.211.zip",
-  "zip_sha256": "31a10743d35533fa69f26abd1aa2ef03f374ba9fd4937b052e177c6eeb686a05",
-  "notes": "0.99.211: kolonna listi joylashuvi (kesimlar bitta ustunda), kesim belgilari, o'lchamlar."
+  "version": "0.99.212",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.212.exe",
+  "sha256": "37f7ad1bf49d19554ae3e5b7d89b38b09e48495633c743ea6837b7619be75dd1",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.212.zip",
+  "zip_sha256": "29d436de496cf1c7957f62402deee6ab240038067f4f6a20c951b723258bad10",
+  "notes": "0.99.212: kolonna listi joylashuvi namunadagidek; kesim belgilari, o'lchamlar."
 }
