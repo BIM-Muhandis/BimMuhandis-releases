@@ -1,8 +1,8 @@
 {
-  "version": "0.99.228",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.228.exe",
-  "sha256": "2f608a43535c9a851b86e324356c46076b2e5e856bd58c4eb3d31d438ec4069a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.228.zip",
-  "zip_sha256": "7f2c77e1cfa732d1c9653ab71bf60cbce4a344d7e6dd1f66d55f112c1d61b6e3",
-  "notes": "0.99.228: kesim belgilari namunadagidek; ichki marka; bitta qatorli Ведомость деталей bo'linmaydi."
+  "version": "0.99.229",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.229.exe",
+  "sha256": "441a1faa180ee91bd92bd8f242a896edca689df7736f7e0c20260ffe1dfe211d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.229.zip",
+  "zip_sha256": "49ece01da6d6d74bcd8d2229cf063743295e79234b01e081eb78366ea6f1f851",
+  "notes": "0.99.229: kolonna kesim belgilari namunadagidek joyda."
 }
