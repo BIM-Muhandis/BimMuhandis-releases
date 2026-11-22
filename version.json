@@ -1,8 +1,8 @@
 {
-  "version": "0.99.182",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.182.exe",
-  "sha256": "6bea4abfc6d030ee0c88cc6af72efcee37c3109d000c29e5dd85a8330ca1d9b1",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.182.zip",
-  "zip_sha256": "09daf61d1042d8dc7d83d491960ff82ea2dc541a29c7b11c82017dd04d80eb4a",
-  "notes": "0.99.182: fundamentdagi выпуск шайбаларига ham «Км-n выпуск» kommentariyasi."
+  "version": "0.99.183",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.183.exe",
+  "sha256": "a4f6ea98af9614d2b202bcec00e5ad4f932f557cbf365f12c5c6aac2894eb247",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.183.zip",
+  "zip_sha256": "68f6ed32a182f00d7173dee15d6b15d8e7ef84bc7287b65c1909119940756167",
+  "notes": "0.99.183: выпуск balandligi, zich zona (nahlyostsiz), xomut 3 ga bo'lib, obryv to'g'ri выпускда."
 }
