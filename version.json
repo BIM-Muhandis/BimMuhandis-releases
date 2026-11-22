@@ -1,8 +1,8 @@
 {
-  "version": "0.99.192",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.192.exe",
-  "sha256": "4e6462bea1b3187dd60bf4b399af563d082653c8b8c2be43d4ddcf841814ed2a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.192.zip",
-  "zip_sha256": "66936160e736ae3982aa6bf70f31c2d5cc58e73c2e751a20d740eccffe123f0c",
-  "notes": "0.99.191: kolonna kesimlari har qavatda («по» yoki yangi kesim), listda ustma-ust."
+  "version": "0.99.193",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.193.exe",
+  "sha256": "d7837f62507dd1001bc9ba2c7498742091220f32e865d9b0c071acc27e66089c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.193.zip",
+  "zip_sha256": "ed964e2b58d5832b75bf44fd093188de34a22d34a97f31c9345b44c864bb8097",
+  "notes": "0.99.193: kolonna kesimlari har qavatda («по» yoki yangi kesim), listda ustma-ust."
 }
