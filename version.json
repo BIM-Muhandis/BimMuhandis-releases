@@ -1,8 +1,8 @@
 {
-  "version": "0.99.223",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.223.exe",
-  "sha256": "8cfd270a0b68852cddf126e57f0c7d2ca8df15ee660d68d3f3d710bcc54b12bb",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.223.zip",
-  "zip_sha256": "b41161078416b245fc560b45ce1a4599a5dc64d2d91d01d111efff19f8c1b0e3",
-  "notes": "0.99.223: kolonna kesimlarida o'lchamlar, o'qlar va pozitsiya markalari."
+  "version": "0.99.224",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.224.exe",
+  "sha256": "d23dc20e6fb7bd368eedbb9662b809beb75886883b178104511b3dbefeaef3db",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.224.zip",
+  "zip_sha256": "22ddb67f7ac8edc5634c5595f072e2dd8ed1f5fcc07e8586199626980e424aee",
+  "notes": "0.99.224: kesimlarda barcha sterjenlarga pozitsiya, Ведомость деталей 2 bo'lakda, eski takror jadvallar o'chiriladi."
 }
