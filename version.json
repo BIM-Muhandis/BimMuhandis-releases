@@ -1,8 +1,8 @@
 {
-  "version": "0.99.234",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.234.exe",
-  "sha256": "105036a9add1cffcfa0537a4ac0a3116af1c2114b47e2472ac164dc8fd4882da",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.234.zip",
-  "zip_sha256": "c22cce9adf14587683eac3477f08a3392f02f29e28e9593cfebf54e37cc24236",
-  "notes": "0.99.234: kesim belgilari namunadagidek; xomutlar to'liq; mufta/payvand shaxmat; o'rta sterjen markalari alohida."
+  "version": "0.99.235",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.235.exe",
+  "sha256": "7152bd6d28b9f6e85cb2f37dd30684b37e34b06394978f9e76b6687be66ff6c2",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.235.zip",
+  "zip_sha256": "3abf154d9b0e096ed0694a4cf7b8942d0d8281a67c8200b0d4a1e7b4a75d45e3",
+  "notes": "0.99.235: ko'ndalang kesimlar har doim tartib bilan bo'ylama kesim yonida."
 }
