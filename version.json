@@ -1,8 +1,8 @@
 {
-  "version": "0.99.191",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.191.exe",
-  "sha256": "3d69978dcccacd758703544870d21ebb58b8b6508354bfcc721f20eda3d8ad36",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.191.zip",
-  "zip_sha256": "2d293712cf6b27203b49162c5c4b5466a3f238bf7e2569fc5be39ed5c8986a98",
+  "version": "0.99.192",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.192.exe",
+  "sha256": "4e6462bea1b3187dd60bf4b399af563d082653c8b8c2be43d4ddcf841814ed2a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.192.zip",
+  "zip_sha256": "66936160e736ae3982aa6bf70f31c2d5cc58e73c2e751a20d740eccffe123f0c",
   "notes": "0.99.191: kolonna kesimlari har qavatda («по» yoki yangi kesim), listda ustma-ust."
 }
