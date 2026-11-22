@@ -1,8 +1,8 @@
 {
-  "version": "0.99.229",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.229.exe",
-  "sha256": "441a1faa180ee91bd92bd8f242a896edca689df7736f7e0c20260ffe1dfe211d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.229.zip",
-  "zip_sha256": "49ece01da6d6d74bcd8d2229cf063743295e79234b01e081eb78366ea6f1f851",
-  "notes": "0.99.229: kolonna kesim belgilari namunadagidek joyda."
+  "version": "0.99.230",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.230.exe",
+  "sha256": "6473dc983610c483e393fa219b0b57870b850e642ec056b6819aee8ac5ee94d9",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.230.zip",
+  "zip_sha256": "b7aff30fa8ea94f5e61c938b16c1e9ea8f74bb2b2f86422e31e268c27aabd340",
+  "notes": "0.99.230: kesim belgilari namunadagidek, ko'ndalang kesim chegarasi tor va ko'rinmas."
 }
