@@ -1,8 +1,8 @@
 {
-  "version": "0.99.217",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.217.exe",
-  "sha256": "2fed366841ea4a3aa85ceae5e37aed585bd1f26e061ca707bf05d233190da8d1",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.217.zip",
-  "zip_sha256": "701eb064415369d46dac2a7761da10906bac71c49ce55870576f076d2a21a4af",
-  "notes": "0.99.217: шайбаларга «Шб» markalari; kolonna markasi qo'lda yoki avtomat; otmetkalar, list joylashuvi."
+  "version": "0.99.218",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.218.exe",
+  "sha256": "fa08580a8638211e01a9b5f886a4666f401ac60cbf9e87f617eb2c67f9e94253",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.218.zip",
+  "zip_sha256": "f4ead8bf4c531aadc4bfb86b3edbf878c263edd85b0a6b6fa13b2b76a2201994",
+  "notes": "0.99.218: ВРС list ustunlari jami bo'yicha; шайба markalari; kolonna markasi."
 }
