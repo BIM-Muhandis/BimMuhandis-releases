@@ -1,8 +1,8 @@
 {
-  "version": "0.99.165",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.165.exe",
-  "sha256": "c7657782b164bfb1e228bd0f30be4fa7ff6f7270600ced64c5156fc71b5de856",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.165.zip",
-  "zip_sha256": "948f8fd1d5dad1767487dbb7c31ddb345ab33c189fb673677315b15a0c4c1f23",
-  "notes": "0.99.165: jadvallar ustma-ust tushmaydi; list o'lchami mazmunga qarab."
+  "version": "0.99.166",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.166.exe",
+  "sha256": "70a670e0c5ff86f6a28ef88c7e968d3591e0c44281fe50ee75cfe3dda354fde8",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.166.zip",
+  "zip_sha256": "cb7ee7772000ba77b8b785a31c5bc94a2b91d353729813534f1e0b998be6cb51",
+  "notes": "0.99.166: kesimlarda chegara chizig'i yo'q; jadvallar ustma-ust tushmaydi; list o'lchami mazmunga qarab."
 }
