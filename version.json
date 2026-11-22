@@ -1,8 +1,8 @@
 {
-  "version": "0.99.188",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.188.exe",
-  "sha256": "3f8e8e6aeb62c3aa37ef29ea5b8fb78ea6771a0361b2a07ce169ba2305216602",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.188.zip",
-  "zip_sha256": "8c8b57bfd552f74ea0e0558a7c241391a0cba0a60e8d27b1586e280547a86fa0",
-  "notes": "0.99.188: kolonna kesimida orqadagi шайбалар yashiriladi; ВРС shapkasi markazda."
+  "version": "0.99.189",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.189.exe",
+  "sha256": "1f5b31fcdaab618f607fdc6039df922504b01cd3a5cad49140572611fb4ee804",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.189.zip",
+  "zip_sha256": "a953dc98f3a9e6c7d7143b3fad90b1c0e76a4830d004137886181494b9bc6f3d",
+  "notes": "0.99.189: kolonna kesimida шайбалар — oldingi qatori ko'rinadi (tepa va fundament)."
 }
