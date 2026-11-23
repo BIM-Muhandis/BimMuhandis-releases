@@ -1,8 +1,8 @@
 {
-  "version": "0.99.247",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.247.exe",
-  "sha256": "1de659f0a082e242bd8e4b49512fc2e95257b610311ab994fec12ed4aace6ef5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.247.zip",
-  "zip_sha256": "eb3704008ec86e58c7cbc2d6c348b569a24f2eb37f1b21b42e542788152437ec",
-  "notes": "0.99.247: ulanish tugmalari 2x2."
+  "version": "0.99.248",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.248.exe",
+  "sha256": "61056cb2e38cc7558f6b0ef447c965e871002c57b2e46dd9f7510d790936a452",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.248.zip",
+  "zip_sha256": "d9d5ed3f555bcf87d54db6b146c32459645802d429be23a416622b055fdcbcd8",
+  "notes": "0.99.248: ko'ndalang kesim rasmi kichraytirildi."
 }
