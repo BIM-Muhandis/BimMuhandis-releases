@@ -1,8 +1,8 @@
 {
-  "version": "0.99.273",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.273.exe",
-  "sha256": "8c8e06cb1145230a2b7a6d603301f5de9dd974b793fa92d3bd4c7c7ffdf67aab",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.273.zip",
-  "zip_sha256": "78f6c18abc089eed7c3ac00a8c0a02d8c527a9418dd1e6a9ad020443c1091f8f",
-  "notes": "0.99.273: «Примечания» shtamp ustida."
+  "version": "0.99.274",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.274.exe",
+  "sha256": "0aa17389d3f82521ed85c9f7b61220074836087e6ac85189ce28f6a6e060e744",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.274.zip",
+  "zip_sha256": "bf98807cda34a6e513f3b6613de643c997bb5ea6e1aafd179def68a6515b9a69",
+  "notes": "0.99.274: Примечания — svarka bandi ГОСТ 14098-2014 С21-Рн bo'yicha."
 }
