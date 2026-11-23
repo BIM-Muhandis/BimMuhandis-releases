@@ -1,8 +1,8 @@
 {
-  "version": "0.99.255",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.255.exe",
-  "sha256": "c215d8300b2443730b32eecd2c9f4b7e55750292a43f3dbb4b68362d03f25b4a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.255.zip",
-  "zip_sha256": "60c26133fb797697ffe4f221dc1f25f4a2c9b0ee74c6a75e94d7f590eda57353",
-  "notes": "0.99.255: kolonna listi — nahlyost o'lchamlari (ostida «нахлёст»), svarka накладкаlariga o'lcham qo'yilmaydi."
+  "version": "0.99.256",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.256.exe",
+  "sha256": "0343f862e0ba4c246c5ab011b999cf6b1a58cbd0201e0d21834a6add0f864d64",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.256.zip",
+  "zip_sha256": "2dc446b31ed0c91c77b74c36daaf3ec60557ae3f95ac6b61e1a80a9182e77db2",
+  "notes": "0.99.256: kolonna listi — nahlyost o'lchamlari (ostida «нахлёст»); svarka накладкаlariga o'lcham qo'yilmaydi (kesimlarda ham)."
 }
