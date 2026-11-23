@@ -1,8 +1,8 @@
 {
-  "version": "0.99.280",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.280.exe",
-  "sha256": "b3062445404cbda455474e47bb33a4cb007d450e32d6ea194fa02fd6196a5412",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.280.zip",
-  "zip_sha256": "28617254cfd4ed6fdc72f495409349db88c36729f4d4be0c953be5c8a72337e9",
-  "notes": "0.99.280: uzellar listdagi bo'sh joyga; svarka uzeli; kesimda xomut markasi выноскаsi o'ng uchiga."
+  "version": "0.99.281",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.281.exe",
+  "sha256": "1d548f1d334149959cfd4d04599b29c52e50e9615c73f8c6661db0285acd27f5",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.281.zip",
+  "zip_sha256": "baf79c2daf07c50c22ae2f608f55b494f506e7fec4cc194020ae2dd14aa5c684",
+  "notes": "0.99.281: uzellar listdagi bo'sh joyga; svarka uzeli; xomut markasi выноскаsi; «Материалы» da (N шт)."
 }
