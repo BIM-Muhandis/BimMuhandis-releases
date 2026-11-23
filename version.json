@@ -1,8 +1,8 @@
 {
-  "version": "0.99.279",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.279.exe",
-  "sha256": "7ef732a1f80484d6025bbb0e4cbb1387c7a5677e25608fbaf9618222b68c7270",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.279.zip",
-  "zip_sha256": "70a03a7665fed64a700116b0fc6e908c281ba80446c38f51ce2f45cbd042f1f8",
-  "notes": "0.99.279: uzellar listdagi bo'sh joyga; svarka uzeli — siz tuzatgan nusxa."
+  "version": "0.99.280",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.280.exe",
+  "sha256": "b3062445404cbda455474e47bb33a4cb007d450e32d6ea194fa02fd6196a5412",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.280.zip",
+  "zip_sha256": "28617254cfd4ed6fdc72f495409349db88c36729f4d4be0c953be5c8a72337e9",
+  "notes": "0.99.280: uzellar listdagi bo'sh joyga; svarka uzeli; kesimda xomut markasi выноскаsi o'ng uchiga."
 }
