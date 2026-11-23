@@ -1,8 +1,8 @@
 {
-  "version": "0.99.252",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.252.exe",
-  "sha256": "90a2cfea5baddf704797e4818dacbee7ca2a20aae7fd8d5b959aa9702bb49334",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.252.zip",
-  "zip_sha256": "74ba01ab3dcdb8d0a544292222fe51f29bbe881e8973cd94db1573c2d7c69fc4",
-  "notes": "0.99.252: kolonna oynasida tepadagi list beton ichida ko'rsatiladi."
+  "version": "0.99.253",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.253.exe",
+  "sha256": "a1271ae90797eb89d78c983c15a9f0bfd1662d77e9c69b33f076c1ab25b1a321",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.253.zip",
+  "zip_sha256": "92aed30b05044e633bf39917997e76c83e749c4794ecdc1b0b0a639c3868a39b",
+  "notes": "0.99.253: kolonna — oxirgi qavatda ulashni qo'lda tanlash (asosiy / yon)."
 }
