@@ -1,8 +1,8 @@
 {
-  "version": "0.99.261",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.261.exe",
-  "sha256": "27cd5c2b3e74d7cc1a470e76d86439ce2a30697c4f7ba1b115c6f03f6fb96e04",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.261.zip",
-  "zip_sha256": "f0be2deec098b5e0c8cfbf5caf8d63d25bfcfb4d4914138e508cfa5cc0b4b981",
-  "notes": "0.99.261: kolonna kesimlari ulanish zonasidan tashqarida (sterjenlar bittadan); 1-qavat nahlyost zanjiri fundament ustidan."
+  "version": "0.99.262",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.262.exe",
+  "sha256": "a22f8b546ddd04aaf760b05c3f4bca4822f645ca198de069027b722d9416ee32",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.262.zip",
+  "zip_sha256": "c7327ef42a7b7eeb1f0539a4c492e1810ec2b4d14b6cb385d1d8d4e6cb710163",
+  "notes": "0.99.262: kolonna kesimlarida накладкаlar yashiriladi; kolonna buyrug'i yengillashtirildi; logda bosqichlar vaqti."
 }
