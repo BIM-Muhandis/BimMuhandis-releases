@@ -1,8 +1,8 @@
 {
-  "version": "0.99.271",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.271.exe",
-  "sha256": "ec4fff5f27638574364f89eb3adc91249b5a42c937d7d8e618273e292bd690d5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.271.zip",
-  "zip_sha256": "cfdfb69f0e2162a86363e48048f1ccacdf62981f7e9b5e0455212847b29f56e6",
-  "notes": "0.99.271: kesimlar qavat o'rtasida (nahlyost sherigi yashiriladi); «Примечания» shtamp yonida pastda."
+  "version": "0.99.272",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.272.exe",
+  "sha256": "e537b15f52da664e02fc48537bdaa67f9f76b9cb998accb39cc4223d858a5304",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.272.zip",
+  "zip_sha256": "eebef715701400d079c6a1fbc3304ea9b7005252e87885f8d72a4c78456a88d4",
+  "notes": "0.99.272: Примечания — himoya qatlami o'qqacha, nahlyost beton sinfiga qarab."
 }
