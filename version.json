@@ -1,8 +1,8 @@
 {
-  "version": "0.99.251",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.251.exe",
-  "sha256": "a759b66231dcab5778587bedfd0127a335862789d43b825e97f6ec81865d0b0e",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.251.zip",
-  "zip_sha256": "7f9fc3746f111919d215a3f55eecbf8dc80f4ebaaccbaf61563e688ed73f61e5",
-  "notes": "0.99.251: rigel/plita usti otmetkasi; pastda obryv yo'q, подготовка to'liq."
+  "version": "0.99.252",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.252.exe",
+  "sha256": "90a2cfea5baddf704797e4818dacbee7ca2a20aae7fd8d5b959aa9702bb49334",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.252.zip",
+  "zip_sha256": "74ba01ab3dcdb8d0a544292222fe51f29bbe881e8973cd94db1573c2d7c69fc4",
+  "notes": "0.99.252: kolonna oynasida tepadagi list beton ichida ko'rsatiladi."
 }
