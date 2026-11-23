@@ -1,8 +1,8 @@
 {
-  "version": "0.99.269",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.269.exe",
-  "sha256": "a3dca14d49cbde43466b8082ce2ec1ebfb912a5997a22f0ca77882e50017f08b",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.269.zip",
-  "zip_sha256": "4fa9bb1ac177b11afc9811e69d41f358fc64be35ebce5c24615f825478a6fcfe",
-  "notes": "0.99.269: kolonna listida «Примечания» — loyihadan olingan qiymatlar bilan."
+  "version": "0.99.270",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.270.exe",
+  "sha256": "aeadbebdfbfe38539f37cb43a919be50d0aeb3d5cf18209a07bfd6ec89cdf024",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.270.zip",
+  "zip_sha256": "1430cc4de8b1fd05577b63c2d985912fdadd35c60186b669e9469bd73ce3476d",
+  "notes": "0.99.270: kolonna listiga nahlyost uzeli (Узел А)."
 }
