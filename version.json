@@ -1,8 +1,8 @@
 {
-  "version": "0.99.248",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.248.exe",
-  "sha256": "61056cb2e38cc7558f6b0ef447c965e871002c57b2e46dd9f7510d790936a452",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.248.zip",
-  "zip_sha256": "d9d5ed3f555bcf87d54db6b146c32459645802d429be23a416622b055fdcbcd8",
-  "notes": "0.99.248: ko'ndalang kesim rasmi kichraytirildi."
+  "version": "0.99.249",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.249.exe",
+  "sha256": "2efb3b569f4ca94cd18f04c1f486a9fabbf5b2b87921e8051137f46562aab539",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.249.zip",
+  "zip_sha256": "098121b87f7aa8c84f36b0ee8445c8ff05a4df0588e45c8d6b7528f1df4dc350",
+  "notes": "0.99.249: «tepadan» bo'ylama kesim tepasida."
 }
