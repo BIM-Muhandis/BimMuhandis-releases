@@ -1,8 +1,8 @@
 {
-  "version": "0.99.243",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.243.exe",
-  "sha256": "2b525997c3e25964d5fc9b90940dc9d81155082e7e52bc2e8d2a71bf793e2950",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.243.zip",
-  "zip_sha256": "703738520dccd5668bf3e915f6081354c2bff23b8e9b927c31e8422cd2aa4198",
-  "notes": "0.99.243: kolonna oynasidagi 'xft' xatosi tuzatildi."
+  "version": "0.99.244",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.244.exe",
+  "sha256": "b0c782fabc894028e5edd292540983d44134562faccb538ff913fd5a944bf8de",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.244.zip",
+  "zip_sha256": "cdc7c0dcf58c88b2c28f47fc8c2340e092958e3f95d5931cbc1063300909aa78",
+  "notes": "0.99.244: kolonna oynasi rasmida «tugundan» plita ustida ham ko'rsatiladi."
 }
