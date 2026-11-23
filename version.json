@@ -1,8 +1,8 @@
 {
-  "version": "0.99.257",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.257.exe",
-  "sha256": "a9469c70922dba19854fc97129005f83ea285feb356a92b39a590b0eea5433c5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.257.zip",
-  "zip_sha256": "3f34fea2a6114a86a8d3249316d60975be23b306a3148780462d5515ed58d5b4",
-  "notes": "0.99.257: kolonna bo'ylama kesimi — faqat old sterjen qatori (chuqurlik avtomatik); nahlyost o'lchamlari yon sterjenlar bilan."
+  "version": "0.99.258",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.258.exe",
+  "sha256": "990c24245bf090e4d60c6d9b42c082e2118cbfc97ea77bc8ec609443e68ba21a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.258.zip",
+  "zip_sha256": "e1ac41cd37d22550739853db2146b4123ba572b230153a4cfb65b270d22d9494",
+  "notes": "0.99.258: otgib + qayrilgan uch shakli plagin ichida (spetsifikatsiyaga tushadi); yangilanish holati o'ng pastda."
 }
