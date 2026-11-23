@@ -1,8 +1,8 @@
 {
-  "version": "0.99.272",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.272.exe",
-  "sha256": "e537b15f52da664e02fc48537bdaa67f9f76b9cb998accb39cc4223d858a5304",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.272.zip",
-  "zip_sha256": "eebef715701400d079c6a1fbc3304ea9b7005252e87885f8d72a4c78456a88d4",
-  "notes": "0.99.272: Примечания — himoya qatlami o'qqacha, nahlyost beton sinfiga qarab."
+  "version": "0.99.273",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.273.exe",
+  "sha256": "8c8e06cb1145230a2b7a6d603301f5de9dd974b793fa92d3bd4c7c7ffdf67aab",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.273.zip",
+  "zip_sha256": "78f6c18abc089eed7c3ac00a8c0a02d8c527a9418dd1e6a9ad020443c1091f8f",
+  "notes": "0.99.273: «Примечания» shtamp ustida."
 }
