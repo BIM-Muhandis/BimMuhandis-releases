@@ -1,8 +1,8 @@
 {
-  "version": "0.99.250",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.250.exe",
-  "sha256": "5e6ff94915dd483b3c3906bc1500e26ba531ac7a53ed77438cc24828f0cdbf78",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.250.zip",
-  "zip_sha256": "24096275de94a610baefcb71fb1d32ec1cf17626da37cad73e38f0367b1101ba",
-  "notes": "0.99.250: kolonna tepasidagi shaybalar bo'ylama kesimda ko'rinadi."
+  "version": "0.99.251",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.251.exe",
+  "sha256": "a759b66231dcab5778587bedfd0127a335862789d43b825e97f6ec81865d0b0e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.251.zip",
+  "zip_sha256": "7f9fc3746f111919d215a3f55eecbf8dc80f4ebaaccbaf61563e688ed73f61e5",
+  "notes": "0.99.251: rigel/plita usti otmetkasi; pastda obryv yo'q, подготовка to'liq."
 }
