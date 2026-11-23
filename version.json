@@ -1,8 +1,8 @@
 {
-  "version": "0.99.244",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.244.exe",
-  "sha256": "b0c782fabc894028e5edd292540983d44134562faccb538ff913fd5a944bf8de",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.244.zip",
-  "zip_sha256": "cdc7c0dcf58c88b2c28f47fc8c2340e092958e3f95d5931cbc1063300909aa78",
-  "notes": "0.99.244: kolonna oynasi rasmida «tugundan» plita ustida ham ko'rsatiladi."
+  "version": "0.99.245",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.245.exe",
+  "sha256": "1cc28dbbf0bca58f81506c27ea301dcc0bd697aaa25348f475c9f2e51327350a",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.245.zip",
+  "zip_sha256": "d0db437f8185c1752cb15ac8134031b3531930dcfe30fdbd9d83eac4a967b50c",
+  "notes": "0.99.245: kolonna oynasi rasmida «tepadan» o'lchami ko'rsatiladi."
 }
