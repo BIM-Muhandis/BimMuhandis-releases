@@ -1,8 +1,8 @@
 {
-  "version": "0.99.270",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.270.exe",
-  "sha256": "aeadbebdfbfe38539f37cb43a919be50d0aeb3d5cf18209a07bfd6ec89cdf024",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.270.zip",
-  "zip_sha256": "1430cc4de8b1fd05577b63c2d985912fdadd35c60186b669e9469bd73ce3476d",
-  "notes": "0.99.270: kolonna listiga nahlyost uzeli (Узел А)."
+  "version": "0.99.271",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.271.exe",
+  "sha256": "ec4fff5f27638574364f89eb3adc91249b5a42c937d7d8e618273e292bd690d5",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.271.zip",
+  "zip_sha256": "cfdfb69f0e2162a86363e48048f1ccacdf62981f7e9b5e0455212847b29f56e6",
+  "notes": "0.99.271: kesimlar qavat o'rtasida (nahlyost sherigi yashiriladi); «Примечания» shtamp yonida pastda."
 }
