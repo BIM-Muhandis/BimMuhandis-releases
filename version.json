@@ -1,8 +1,8 @@
 {
-  "version": "0.99.245",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.245.exe",
-  "sha256": "1cc28dbbf0bca58f81506c27ea301dcc0bd697aaa25348f475c9f2e51327350a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.245.zip",
-  "zip_sha256": "d0db437f8185c1752cb15ac8134031b3531930dcfe30fdbd9d83eac4a967b50c",
-  "notes": "0.99.245: kolonna oynasi rasmida «tepadan» o'lchami ko'rsatiladi."
+  "version": "0.99.246",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.246.exe",
+  "sha256": "a6143f56dcc0b2155d6dcd65fc11afc5e89fd707051553489f6590782b913111",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.246.zip",
+  "zip_sha256": "9d6ee85a08d2516e9ed853bee2b8512b1e5c0b0b697260dc12b94eed3a30341e",
+  "notes": "0.99.246: «Yon armatura» belgisi olib tashlandi (son 0 bo'lsa yo'q)."
 }
