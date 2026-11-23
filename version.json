@@ -1,8 +1,8 @@
 {
-  "version": "0.99.275",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.275.exe",
-  "sha256": "13edca8c11ddb87eb828618d3cc5f89464ee625b6ec41cbda55daf96396c4f5c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.275.zip",
-  "zip_sha256": "d826c35c7b9eed1ceebc18a0e1154dbcf7157fe3c802e86458dc9197961e15e0",
-  "notes": "0.99.275: kolonna listiga шайба uzeli (Т12-Рз)."
+  "version": "0.99.276",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.276.exe",
+  "sha256": "98210b659361b9934ef9fcc560f71cd0d69f7a3ff2f7f8f5f974743f9dd7478e",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.276.zip",
+  "zip_sha256": "312ace9356e30f128284ac97599888e2a59f529b7e458a8396c61727d1e90936",
+  "notes": "0.99.276: nahlyost va шайба uzellari Revit 2024+ da ishlaydi; шайба — «Шайба Вертикал»."
 }
