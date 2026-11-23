@@ -1,8 +1,8 @@
 {
-  "version": "0.99.246",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.246.exe",
-  "sha256": "a6143f56dcc0b2155d6dcd65fc11afc5e89fd707051553489f6590782b913111",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.246.zip",
-  "zip_sha256": "9d6ee85a08d2516e9ed853bee2b8512b1e5c0b0b697260dc12b94eed3a30341e",
-  "notes": "0.99.246: «Yon armatura» belgisi olib tashlandi (son 0 bo'lsa yo'q)."
+  "version": "0.99.247",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.247.exe",
+  "sha256": "1de659f0a082e242bd8e4b49512fc2e95257b610311ab994fec12ed4aace6ef5",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.247.zip",
+  "zip_sha256": "eb3704008ec86e58c7cbc2d6c348b569a24f2eb37f1b21b42e542788152437ec",
+  "notes": "0.99.247: ulanish tugmalari 2x2."
 }
