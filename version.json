@@ -1,8 +1,8 @@
 {
-  "version": "0.99.265",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.265.exe",
-  "sha256": "b774353542f1a0cabceee8bb62d6a8c97fb882927247f0fabb87d70373b13450",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.265.zip",
-  "zip_sha256": "d04b7c597f17e40a0e1e36e8c456ecad4c852889d293943adae37bd674a4f2d0",
-  "notes": "0.99.265: kolonna listida ikkinchi bo'ylama ko'rinish masofasi tuzatildi."
+  "version": "0.99.266",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.266.exe",
+  "sha256": "04475a53d80955c5c7b27ec329536aabd024a282842ec3899a904f335289ad84",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.266.zip",
+  "zip_sha256": "399f2e02b69f7edda77847da327d9d3083557443bbc8c935b196fbeac4f387cc",
+  "notes": "0.99.266: o'lcham raqami obryv siniq chizig'i ustiga tushmaydi."
 }
