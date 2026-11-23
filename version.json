@@ -1,8 +1,8 @@
 {
-  "version": "0.99.277",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.277.exe",
-  "sha256": "ba35a1a571765302fe74364686957c1c47717a02df7cbd87a354a7a9f7056c04",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.277.zip",
-  "zip_sha256": "3c9a80d19fa800574afad5426f8dd36c8829149dd92d7e1058fb7b0c6be28eb3",
-  "notes": "0.99.277: kolonna listiga svarka uzeli (Узел Б, С21-Рн)."
+  "version": "0.99.278",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.278.exe",
+  "sha256": "87e0493d925f8f98ce2b9be221c98be32c6925312c305bd5cd4cf9c1a1fe2e79",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.278.zip",
+  "zip_sha256": "25fc2989fd058c52f7a1c1ce8d4622446bb1436b11df12e9383ef8b74d099961",
+  "notes": "0.99.278: svarka uzeli (Узел Б) yangilangan komponovkada."
 }
