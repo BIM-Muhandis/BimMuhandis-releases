@@ -1,8 +1,8 @@
 {
-  "version": "0.99.266",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.266.exe",
-  "sha256": "04475a53d80955c5c7b27ec329536aabd024a282842ec3899a904f335289ad84",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.266.zip",
-  "zip_sha256": "399f2e02b69f7edda77847da327d9d3083557443bbc8c935b196fbeac4f387cc",
-  "notes": "0.99.266: o'lcham raqami obryv siniq chizig'i ustiga tushmaydi."
+  "version": "0.99.267",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.267.exe",
+  "sha256": "fe83986edd6e53a9f2f1708522e743db1adb9fd8afb7e7c3823fe9f6d1d213dd",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.267.zip",
+  "zip_sha256": "78be0f7a5fcd6405dfe5ae379dc51803b79931ac87baaca2cd184b59d230b11f",
+  "notes": "0.99.267: kolonna nahlyostlari shaxmat (plitadan / shaxmat oralig'i qo'lda), 1,5l qoidasi olib tashlandi."
 }
