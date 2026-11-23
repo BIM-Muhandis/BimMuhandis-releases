@@ -1,8 +1,8 @@
 {
-  "version": "0.99.249",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.249.exe",
-  "sha256": "2efb3b569f4ca94cd18f04c1f486a9fabbf5b2b87921e8051137f46562aab539",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.249.zip",
-  "zip_sha256": "098121b87f7aa8c84f36b0ee8445c8ff05a4df0588e45c8d6b7528f1df4dc350",
-  "notes": "0.99.249: «tepadan» bo'ylama kesim tepasida."
+  "version": "0.99.250",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.250.exe",
+  "sha256": "5e6ff94915dd483b3c3906bc1500e26ba531ac7a53ed77438cc24828f0cdbf78",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.250.zip",
+  "zip_sha256": "24096275de94a610baefcb71fb1d32ec1cf17626da37cad73e38f0367b1101ba",
+  "notes": "0.99.250: kolonna tepasidagi shaybalar bo'ylama kesimda ko'rinadi."
 }
