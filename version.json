@@ -1,8 +1,8 @@
 {
-  "version": "0.99.262",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.262.exe",
-  "sha256": "a22f8b546ddd04aaf760b05c3f4bca4822f645ca198de069027b722d9416ee32",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.262.zip",
-  "zip_sha256": "c7327ef42a7b7eeb1f0539a4c492e1810ec2b4d14b6cb385d1d8d4e6cb710163",
-  "notes": "0.99.262: kolonna kesimlarida накладкаlar yashiriladi; kolonna buyrug'i yengillashtirildi; logda bosqichlar vaqti."
+  "version": "0.99.263",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.263.exe",
+  "sha256": "ff5256144570225786cb2634b810f5c42bade9c52f77147114df50c0949f8b9c",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.263.zip",
+  "zip_sha256": "665570e2201fafb8ecb90049d5c9b2ee588c73a2052201bcfe2fb2e22c6ad18c",
+  "notes": "0.99.263: накладка o'lchamlari; o'lchamlar butun mm; kesim belgisi o'rtasi ochiq va o'lchamdan narida."
 }
