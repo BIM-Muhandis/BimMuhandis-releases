@@ -1,8 +1,8 @@
 {
-  "version": "0.99.281",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.281.exe",
-  "sha256": "1d548f1d334149959cfd4d04599b29c52e50e9615c73f8c6661db0285acd27f5",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.281.zip",
-  "zip_sha256": "baf79c2daf07c50c22ae2f608f55b494f506e7fec4cc194020ae2dd14aa5c684",
-  "notes": "0.99.281: uzellar listdagi bo'sh joyga; svarka uzeli; xomut markasi выноскаsi; «Материалы» da (N шт)."
+  "version": "0.99.282",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.282.exe",
+  "sha256": "08877492d004208df54b7995d593121d670f4aaad2a2a127fac77643f763444d",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.282.zip",
+  "zip_sha256": "b749905db21a6d4f9f31d2185296019326ad54ec28f4719894299aa6c32b0596",
+  "notes": "0.99.282: uzellar listni maksimal to'ldiradi (chap bo'sh joy ham)."
 }
