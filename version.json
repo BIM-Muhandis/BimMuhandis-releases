@@ -1,8 +1,8 @@
 {
-  "version": "0.99.263",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.263.exe",
-  "sha256": "ff5256144570225786cb2634b810f5c42bade9c52f77147114df50c0949f8b9c",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.263.zip",
-  "zip_sha256": "665570e2201fafb8ecb90049d5c9b2ee588c73a2052201bcfe2fb2e22c6ad18c",
-  "notes": "0.99.263: накладка o'lchamlari; o'lchamlar butun mm; kesim belgisi o'rtasi ochiq va o'lchamdan narida."
+  "version": "0.99.264",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.264.exe",
+  "sha256": "2496be41e80d5d013ed4b220eb5a14192315249c3ef4f4b62be418744be4ced4",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.264.zip",
+  "zip_sha256": "3e3b69ab58fbcb2dde13274a6647751c764a5ae58bd9287d0af19c6eae1627bd",
+  "notes": "0.99.264: kolonnaga ikkinchi (90° burilgan) bo'ylama ko'rinish — yon sterjenlar yoki kesim farq qilganda."
 }
