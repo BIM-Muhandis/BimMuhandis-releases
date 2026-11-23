@@ -1,8 +1,8 @@
 {
-  "version": "0.99.268",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.268.exe",
-  "sha256": "24873a6fdebb579374e1c51078026cc740a5c8f736d103fbad03520fae873e1d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.268.zip",
-  "zip_sha256": "370302070b38a7eb7d2cd09c7a695688f0da968423e4aa9bcce9ae0686140b45",
-  "notes": "0.99.268: shaxmat nahlyost o'lchami bitta zanjirda."
+  "version": "0.99.269",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.269.exe",
+  "sha256": "a3dca14d49cbde43466b8082ce2ec1ebfb912a5997a22f0ca77882e50017f08b",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.269.zip",
+  "zip_sha256": "4fa9bb1ac177b11afc9811e69d41f358fc64be35ebce5c24615f825478a6fcfe",
+  "notes": "0.99.269: kolonna listida «Примечания» — loyihadan olingan qiymatlar bilan."
 }
