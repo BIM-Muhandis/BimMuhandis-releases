@@ -1,8 +1,8 @@
 {
-  "version": "0.99.264",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.264.exe",
-  "sha256": "2496be41e80d5d013ed4b220eb5a14192315249c3ef4f4b62be418744be4ced4",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.264.zip",
-  "zip_sha256": "3e3b69ab58fbcb2dde13274a6647751c764a5ae58bd9287d0af19c6eae1627bd",
-  "notes": "0.99.264: kolonnaga ikkinchi (90° burilgan) bo'ylama ko'rinish — yon sterjenlar yoki kesim farq qilganda."
+  "version": "0.99.265",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.265.exe",
+  "sha256": "b774353542f1a0cabceee8bb62d6a8c97fb882927247f0fabb87d70373b13450",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.265.zip",
+  "zip_sha256": "d04b7c597f17e40a0e1e36e8c456ecad4c852889d293943adae37bd674a4f2d0",
+  "notes": "0.99.265: kolonna listida ikkinchi bo'ylama ko'rinish masofasi tuzatildi."
 }
