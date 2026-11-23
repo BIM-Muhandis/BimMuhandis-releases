@@ -1,8 +1,8 @@
 {
-  "version": "0.99.258",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.258.exe",
-  "sha256": "990c24245bf090e4d60c6d9b42c082e2118cbfc97ea77bc8ec609443e68ba21a",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.258.zip",
-  "zip_sha256": "e1ac41cd37d22550739853db2146b4123ba572b230153a4cfb65b270d22d9494",
-  "notes": "0.99.258: otgib + qayrilgan uch shakli plagin ichida (spetsifikatsiyaga tushadi); yangilanish holati o'ng pastda."
+  "version": "0.99.259",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.259.exe",
+  "sha256": "e54dba6d50a469b018a649bcd28c7f68e02bb659cd64421583fa4dbb4c0196cb",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.259.zip",
+  "zip_sha256": "fc37b603147bc32fbcd18c4b8dbcd5f31b21d2f041cc22f577dc4e5722625bb4",
+  "notes": "0.99.259: kolonna tepasidagi otgib + L sterjenlar — «О_26(α»90)_Г2» shakli (Форма 73), jadvalga tushadi."
 }
