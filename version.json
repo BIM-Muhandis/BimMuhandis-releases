@@ -1,8 +1,8 @@
 {
-  "version": "0.99.256",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.256.exe",
-  "sha256": "0343f862e0ba4c246c5ab011b999cf6b1a58cbd0201e0d21834a6add0f864d64",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.256.zip",
-  "zip_sha256": "2dc446b31ed0c91c77b74c36daaf3ec60557ae3f95ac6b61e1a80a9182e77db2",
-  "notes": "0.99.256: kolonna listi — nahlyost o'lchamlari (ostida «нахлёст»); svarka накладкаlariga o'lcham qo'yilmaydi (kesimlarda ham)."
+  "version": "0.99.257",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.257.exe",
+  "sha256": "a9469c70922dba19854fc97129005f83ea285feb356a92b39a590b0eea5433c5",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.257.zip",
+  "zip_sha256": "3f34fea2a6114a86a8d3249316d60975be23b306a3148780462d5515ed58d5b4",
+  "notes": "0.99.257: kolonna bo'ylama kesimi — faqat old sterjen qatori (chuqurlik avtomatik); nahlyost o'lchamlari yon sterjenlar bilan."
 }
