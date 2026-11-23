@@ -1,8 +1,8 @@
 {
-  "version": "0.99.259",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.259.exe",
-  "sha256": "e54dba6d50a469b018a649bcd28c7f68e02bb659cd64421583fa4dbb4c0196cb",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.259.zip",
-  "zip_sha256": "fc37b603147bc32fbcd18c4b8dbcd5f31b21d2f041cc22f577dc4e5722625bb4",
-  "notes": "0.99.259: kolonna tepasidagi otgib + L sterjenlar — «О_26(α»90)_Г2» shakli (Форма 73), jadvalga tushadi."
+  "version": "0.99.260",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.260.exe",
+  "sha256": "288cd24dad606c92cef9d93098792fb408aed3bb3b9088877b7cd01513a61308",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.260.zip",
+  "zip_sha256": "669f28907a0904b49a569c8585de97c5d69260ff719cfc8ddf40f67f4612bf2e",
+  "notes": "0.99.260: kolonna kesimlari «по» — kesim tarkibi bo'yicha; «tepadan» L da o'qqacha, listda list ustigacha; oyna rasmi tuzatildi."
 }
