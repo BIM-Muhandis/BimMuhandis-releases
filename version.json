@@ -1,8 +1,8 @@
 {
-  "version": "0.99.284",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.284.exe",
-  "sha256": "7c815b58d1e888832f3fd649cb1c050eaf2b0d779dfe72c2ebd25fc6fe7da7cd",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.284.zip",
-  "zip_sha256": "d1f5bc7354bfd77e55f34ae1b22c55cc8eff21373eeeab6f74873c4d4ba63eb4",
-  "notes": "0.99.284: «Материалы» da (N шт) jadval katagida; uzellar tuzatilgan ko'rinishda."
+  "version": "0.99.285",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.285.exe",
+  "sha256": "91d3c7ec0033423b495aa463d0b7de2dfea8acc08e5648de0aa9e6c319f8d053",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.285.zip",
+  "zip_sha256": "d9c4a7ba47a34e08d9d05017255274dd1e7cbbdadb75883e4064ce1cffc08e63",
+  "notes": "0.99.285: uzellar joyi — Узел А kesimlar ostida, svarka va шайба jadvallar ostida."
 }
