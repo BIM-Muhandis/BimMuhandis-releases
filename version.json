@@ -1,8 +1,8 @@
 {
-  "version": "0.99.285",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.285.exe",
-  "sha256": "91d3c7ec0033423b495aa463d0b7de2dfea8acc08e5648de0aa9e6c319f8d053",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.285.zip",
-  "zip_sha256": "d9c4a7ba47a34e08d9d05017255274dd1e7cbbdadb75883e4064ce1cffc08e63",
-  "notes": "0.99.285: uzellar joyi — Узел А kesimlar ostida, svarka va шайба jadvallar ostida."
+  "version": "0.99.286",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.286.exe",
+  "sha256": "c4da65b4f663116b449b9bef0430dd8eabc0e56cc02710e6f3ffc780bc14e02f",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.286.zip",
+  "zip_sha256": "286fd7c4b3555d7c2db128f24f8fb58b7df6846de86aa88c4bce8aa0c45d5f02",
+  "notes": "0.99.286: faqat nahlyost bo'lsa Узел А jadvallar ostida, шайба uning ostida."
 }
