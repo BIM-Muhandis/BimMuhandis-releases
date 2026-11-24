@@ -1,8 +1,8 @@
 {
-  "version": "0.99.282",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.282.exe",
-  "sha256": "08877492d004208df54b7995d593121d670f4aaad2a2a127fac77643f763444d",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.282.zip",
-  "zip_sha256": "b749905db21a6d4f9f31d2185296019326ad54ec28f4719894299aa6c32b0596",
-  "notes": "0.99.282: uzellar listni maksimal to'ldiradi (chap bo'sh joy ham)."
+  "version": "0.99.283",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.283.exe",
+  "sha256": "ed38e1f8ca1ba734662ea1e08a8fc40f520ee0c5fc225477bacf1d4b158cc01b",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.283.zip",
+  "zip_sha256": "4e80bf7dcc02bdf4138680b5aee53dd442323333040c90956cf50b98c42f47d2",
+  "notes": "0.99.283: «Материалы» qatorida (N шт) jadval katagida."
 }
