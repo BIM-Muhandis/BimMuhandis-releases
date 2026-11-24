@@ -1,8 +1,8 @@
 {
-  "version": "0.99.287",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.287.exe",
-  "sha256": "aa68ec341eaf75b6d5a8dab68fa3c66d4c869efea9f4fea9e90a1c2ce7b29887",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.287.zip",
-  "zip_sha256": "3b339e4d2bb36c301ed4ff862a796259b17ad90612a555e1e6e2744754927a48",
-  "notes": "0.99.287: mufta uzeli va muftalar jadvali (kolonna listi)."
+  "version": "0.99.288",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.288.exe",
+  "sha256": "75b1b608140894f5c6ab3a39d44ce8ff895c61c1b52349f64642e7811959dc14",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.288.zip",
+  "zip_sha256": "36d9f4d40a4cc6e09849a9b5859a70b6b5fa6c364d63015e3d69bfcb9fc0c68e",
+  "notes": "0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
 }
