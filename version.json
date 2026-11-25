@@ -1,8 +1,8 @@
 {
-  "version": "0.99.288",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.288.exe",
-  "sha256": "75b1b608140894f5c6ab3a39d44ce8ff895c61c1b52349f64642e7811959dc14",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.288.zip",
-  "zip_sha256": "36d9f4d40a4cc6e09849a9b5859a70b6b5fa6c364d63015e3d69bfcb9fc0c68e",
-  "notes": "0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
+  "version": "0.99.289",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.289.exe",
+  "sha256": "475f32b1230b7a7c5bc0f71bebf40cd5d06659093537f57210b7e07a19e8c4c1",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.289.zip",
+  "zip_sha256": "afa4624fe8c93e00fe66bfe3cfe4689b5c3b13cb0d0cfd3e59b1e10aa52961e4",
+  "notes": "0.99.289: ВРС barcha elementlar uchun («на жб»), plita+rigel tugunida шайба va otmetka, «Материалы (N шт)».\r\n0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
 }
