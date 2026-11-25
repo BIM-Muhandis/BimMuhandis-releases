@@ -10,12 +10,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/shohruhorozov251-web/BimMuhandis-releases/releases/download/mcp-v1.10.0/BIM_Muhandis_MCP_v1.10.0.zip"><img src="https://img.shields.io/badge/Yuklab%20olish-ZIP%201.10.0-2E7D32?style=for-the-badge&logo=github" alt="ZIP yuklab olish"></a>
+  <a href="https://github.com/BIM-Muhandis/BimMuhandis-releases/releases/download/mcp-v1.10.0/BIM_Muhandis_MCP_v1.10.0.zip"><img src="https://img.shields.io/badge/Yuklab%20olish-ZIP%201.10.0-2E7D32?style=for-the-badge&logo=github" alt="ZIP yuklab olish"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/shohruhorozov251-web/BimMuhandis-releases/stargazers"><img src="https://img.shields.io/github/stars/shohruhorozov251-web/BimMuhandis-releases?style=social" alt="GitHub stars"></a>
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2Fshohruhorozov251-web%2FBimMuhandis-releases%2Fmain%2Fmcp%2Fstats.json&query=%24.downloads&label=yuklab%20olingan&color=2E7D32" alt="yuklab olingan">
+  <a href="https://github.com/BIM-Muhandis/BimMuhandis-releases/stargazers"><img src="https://img.shields.io/github/stars/BIM-Muhandis/BimMuhandis-releases?style=social" alt="GitHub stars"></a>
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FBIM-Muhandis%2FBimMuhandis-releases%2Fmain%2Fmcp%2Fstats.json&query=%24.downloads&label=yuklab%20olingan&color=2E7D32" alt="yuklab olingan">
   <img src="https://img.shields.io/badge/versiya-1.10.0-1F3A5F" alt="versiya">
   <img src="https://img.shields.io/badge/tool'lar-620%2B-2E7D32" alt="tool'lar">
   <img src="https://img.shields.io/badge/2022–2027-0277BD" alt="2022–2027">
