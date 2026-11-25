@@ -1,8 +1,8 @@
 {
-  "version": "0.99.290",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.290.exe",
-  "sha256": "3730c7943bc2df65071687ecf72d6ea326aa60ff93f9ff9e7360d53ea26839e7",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.290.zip",
-  "zip_sha256": "e99b91fa52f1dc8a062e80cb09c86cc8f0d53069a6a15b5d990c167370cb0b03",
-  "notes": "0.99.290: kolonna listi sarlavhasi tugun ustida; шайба uzelida «4d».\r\n0.99.289: ВРС barcha elementlar uchun («на жб»), plita+rigel tugunida шайба va otmetka, «Материалы (N шт)».\r\n0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
+  "version": "0.99.291",
+  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.291.exe",
+  "sha256": "0c516ac8cf810577a49ac53dbe200c8a48eb15ffeba36e101bda3ad8c856fea3",
+  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.291.zip",
+  "zip_sha256": "d5deaeaf699c472bc409e8ca7e9505081519c092009581b165fd5505c20e818f",
+  "notes": "0.99.291: Спецификация материалов — «(N шт)» hajm ustuni ustida, alohida nom qatorisiz.\r\n0.99.290: kolonna listi sarlavhasi tugun ustida; шайба uzelida «4d».\r\n0.99.289: ВРС barcha elementlar uchun («на жб»), plita+rigel tugunida шайба va otmetka, «Материалы (N шт)».\r\n0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
 }
