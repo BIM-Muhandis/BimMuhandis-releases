@@ -1,8 +1,8 @@
 {
-  "version": "0.99.310",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.310.exe",
-  "sha256": "9b3a1c12deca112640cab6f4933f97c67fa153fd3b739ddc22be710f891d4386",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.310.zip",
-  "zip_sha256": "3819f1f56f6b20876bd43a55d197d2bab26961a27d88ffc6f69e09aebd86ef0e",
-  "notes": "0.99.310: «Kotlovan» — murakkab konturlarda ham otkoslar; grunt va tayyorlov «Перекрытия» kategoriyasida."
+  "version": "0.99.311",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.311.exe",
+  "sha256": "ad66365e3b556563866bfcc01bf0ee10185fdfabe2ffa37f498488d7239c6129",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.311.zip",
+  "zip_sha256": "2e86f7b50d640cb84aa95861df6a4841490fa38e008295851e8f06659cc9376b",
+  "notes": "0.99.311: «Kotlovan» — beshta hajm «Формы» kategoriyasidagi jismlar bilan; jadval «Формы» bo'yicha."
 }
