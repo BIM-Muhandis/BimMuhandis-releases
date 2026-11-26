@@ -1,8 +1,8 @@
 {
-  "version": "0.99.311",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.311.exe",
-  "sha256": "ad66365e3b556563866bfcc01bf0ee10185fdfabe2ffa37f498488d7239c6129",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.311.zip",
-  "zip_sha256": "2e86f7b50d640cb84aa95861df6a4841490fa38e008295851e8f06659cc9376b",
-  "notes": "0.99.311: «Kotlovan» — beshta hajm «Формы» kategoriyasidagi jismlar bilan; jadval «Формы» bo'yicha."
+  "version": "0.99.312",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.312.exe",
+  "sha256": "bbc55bb3911f2d232d458fac18831a9bea50e62caf951997deaf0a6417c81b3b",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.312.zip",
+  "zip_sha256": "fba8a9fdcbabdac137339049074b93e7ecb73cc48e98d96efbd5cead28564eea",
+  "notes": "0.99.312: «Kotlovan» — hajmlar haqiqiy «Формы» bilan (qazilma to'liq to'ldiriladi), jadvalda formaning o'z hajmi."
 }
