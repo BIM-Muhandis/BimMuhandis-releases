@@ -1,8 +1,8 @@
 {
-  "version": "0.99.299",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.299.exe",
-  "sha256": "932d98384e9143ca328126cb4f23da65c5344d9ac3b013873b3443af6ed1d7a9",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.299.zip",
-  "zip_sha256": "1bedc1afaf3a1f047b8f01d87914037d0680ff01726716e89b93078fef3a10eb",
-  "notes": "0.99.299: rigel listi — har yangi pozitsiyaga eng kam kesim, o'lchamlar, otmetkalar, шайба markalari, «Узел А» va «Шайба» uzellari, «Примечания»."
+  "version": "0.99.301",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.301.exe",
+  "sha256": "7000f4503fcc1403b6d01ce28feb7f0f7152f2a5becd54420df9704a3ca35be2",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.301.zip",
+  "zip_sha256": "fe0330aef6f4a37bab7772857e76b25f70612753d7ce4593dc9f187f765e83a2",
+  "notes": "0.99.301: rigel listi — kesim belgilari kolonnadagidek (o'rtasi ochiq), har yangi pozitsiyaga kesim, o'lchamlar, otmetkalar, шайба markalari, uzellar, «Примечания»."
 }
