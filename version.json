@@ -1,8 +1,8 @@
 {
-  "version": "0.99.297",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.297.exe",
-  "sha256": "17ff4c128b716cdb0de13f86ef00fa37aefb75211d30971e52e3f208bf442ae2",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.297.zip",
-  "zip_sha256": "4330d881ddae95557392112f823b45191b0c1bae66e668befa91bac74e6919c2",
-  "notes": "0.99.297: yangi buyruq «Kolonna sxemasi» — kolonnalar markasi bo'yicha joylashuv sxemasi, o'lchamlar va jadval bilan list."
+  "version": "0.99.298",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.298.exe",
+  "sha256": "21cafa38807c50257e3155f8396b81f62ab439d2c4b89dd218e4c8d241a7eadf",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.298.zip",
+  "zip_sha256": "92338b2546bfde2fa59f3d4068279f87a80cfbf67a88ad0c6bd0d107cf69ee1a",
+  "notes": "0.99.298: rigel listi — har yangi pozitsiyaga kesim, o'lchamlar, otmetkalar, шайба markalari, «Узел А» va «Шайба» uzellari, «Примечания»."
 }
