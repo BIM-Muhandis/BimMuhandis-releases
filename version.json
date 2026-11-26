@@ -1,8 +1,8 @@
 {
-  "version": "0.99.305",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.305.exe",
-  "sha256": "c9c73087d63430f64bf46f0eb4edbca32949bea2b77466d7fa548d759c245ba8",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.305.zip",
-  "zip_sha256": "e9049c4d3150ca6261af395beb03d737307b7cecea5357533c0ec6e07661f2d3",
-  "notes": "0.99.305: yangi buyruq «Kotlovan» — model, hajmlar jadvali, plan, kesimlar, 3D, list."
+  "version": "0.99.306",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.306.exe",
+  "sha256": "c83227ecaf5371f4d3eddd3b6e7f0c7903cc4c2b925231a7ca7f706d65733b59",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.306.zip",
+  "zip_sha256": "b00a67ba838e26a0ea37aa79817839e814f06646eb936c658669a92e83c7e992",
+  "notes": "0.99.306: «Kotlovan» oynasi rasmli (plita / lenta / stakan), otkos 1:m va gradus, yer otmetkasi tomonlar bo'yicha."
 }
