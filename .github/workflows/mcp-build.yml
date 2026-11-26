@@ -58,8 +58,11 @@ jobs:
       - name: Inno Setup
         run: choco install innosetup -y --no-progress
 
+      - name: Obfuscar (kod himoyasi)
+        run: dotnet tool install --global Obfuscar.GlobalTool
+
       - name: Yig'ish
-        run: ./build-mcp.ps1 -Ci -Installer
+        run: ./build-mcp.ps1 -Ci -Installer -Protect
 
       - name: Chiqarish (release + version.json)
         if: steps.v.outputs.exists == '0'
