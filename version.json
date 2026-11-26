@@ -1,8 +1,8 @@
 {
-  "version": "0.99.296",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.296.exe",
-  "sha256": "29ac6b3640f7f0600815a5f7eb9db41e7193c685a106a67153240993491af800",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.296.zip",
-  "zip_sha256": "c284c17a4234b90a9089a2f53f8cf3690e3d5af79578a5022e6196bdad847dba",
-  "notes": "0.99.296: mufta uzeli namunadagidek; muftalar jadvali 8 mm, o'rtada; uzellar yonma-yon."
+  "version": "0.99.297",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.297.exe",
+  "sha256": "17ff4c128b716cdb0de13f86ef00fa37aefb75211d30971e52e3f208bf442ae2",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.297.zip",
+  "zip_sha256": "4330d881ddae95557392112f823b45191b0c1bae66e668befa91bac74e6919c2",
+  "notes": "0.99.297: yangi buyruq «Kolonna sxemasi» — kolonnalar markasi bo'yicha joylashuv sxemasi, o'lchamlar va jadval bilan list."
 }
