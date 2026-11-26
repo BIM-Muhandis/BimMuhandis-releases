@@ -1,8 +1,8 @@
 {
-  "version": "0.99.306",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.306.exe",
-  "sha256": "c83227ecaf5371f4d3eddd3b6e7f0c7903cc4c2b925231a7ca7f706d65733b59",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.306.zip",
-  "zip_sha256": "b00a67ba838e26a0ea37aa79817839e814f06646eb936c658669a92e83c7e992",
-  "notes": "0.99.306: «Kotlovan» oynasi rasmli (plita / lenta / stakan), otkos 1:m va gradus, yer otmetkasi tomonlar bo'yicha."
+  "version": "0.99.307",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.307.exe",
+  "sha256": "fe963ac4b84641d36097d0bd3520864b0ff77040eb939b73d392ceb4961ae51f",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.307.zip",
+  "zip_sha256": "53ac54f0b7107eb3fd43eb7c8aa3b683bb61615ccaa83cc0e6b366c5c475e672",
+  "notes": "0.99.307: «Kotlovan» oynasi rasmi ixcham, grunt eni rasmda."
 }
