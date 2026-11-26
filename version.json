@@ -1,8 +1,8 @@
 {
-  "version": "0.99.304",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.304.exe",
-  "sha256": "fe7d5f8e78c937879db05e468b73a224faf3b840d065caa7e091ee3af3b7adfe",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.304.zip",
-  "zip_sha256": "0873a5a326d9398b352e2d9535b6fe6baa4c62fe3d64ff5cc11a3b539b6d3378",
-  "notes": "0.99.304: «Rigel sxemasi» — sarlavha «… на отм. +6.650».\r\n0.99.303: «Rigel sxemasi» — sarlavha ostida rigellar ustining otmetkasi.\r\n0.99.302: rigel tayanchi — rigel tagidagi kolonna va uchiga tiralgan rigel ham tayanch: sterjenlar tashqi yuzgacha, shaybalar, xomutlar oraliqlarda; rigel listida faqat o'z armaturasi, 3D ko'rinishlar (shayba, nahlyost); yangi «Rigel sxemasi» buyrug'i.\r\n0.99.301: rigel listi — kesim belgilari kolonnadagidek (o'rtasi ochiq), har yangi pozitsiyaga kesim, o'lchamlar, otmetkalar, шайба markalari, uzellar, «Примечания»."
+  "version": "0.99.305",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.305.exe",
+  "sha256": "c9c73087d63430f64bf46f0eb4edbca32949bea2b77466d7fa548d759c245ba8",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.305.zip",
+  "zip_sha256": "e9049c4d3150ca6261af395beb03d737307b7cecea5357533c0ec6e07661f2d3",
+  "notes": "0.99.305: yangi buyruq «Kotlovan» — model, hajmlar jadvali, plan, kesimlar, 3D, list."
 }
