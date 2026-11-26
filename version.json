@@ -1,8 +1,8 @@
 {
-  "version": "0.99.301",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.301.exe",
-  "sha256": "7000f4503fcc1403b6d01ce28feb7f0f7152f2a5becd54420df9704a3ca35be2",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.301.zip",
-  "zip_sha256": "fe0330aef6f4a37bab7772857e76b25f70612753d7ce4593dc9f187f765e83a2",
-  "notes": "0.99.301: rigel listi — kesim belgilari kolonnadagidek (o'rtasi ochiq), har yangi pozitsiyaga kesim, o'lchamlar, otmetkalar, шайба markalari, uzellar, «Примечания»."
+  "version": "0.99.302",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.302.exe",
+  "sha256": "1da3c8c96f7f5d54974658369370f60cb972eff55385ed29c329daec3253438c",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.302.zip",
+  "zip_sha256": "ae1a2e3ece5b73e580376bb4a19b75ffa363f90983cb78b52f85741a1e6cc7aa",
+  "notes": "0.99.302: rigel tayanchi — rigel tagidagi kolonna va uchiga tiralgan rigel ham tayanch: sterjenlar tashqi yuzgacha, shaybalar, xomutlar oraliqlarda; rigel listida faqat o'z armaturasi, 3D ko'rinishlar (shayba, nahlyost); yangi «Rigel sxemasi» buyrug'i.\r\n0.99.301: rigel listi — kesim belgilari kolonnadagidek (o'rtasi ochiq), har yangi pozitsiyaga kesim, o'lchamlar, otmetkalar, шайба markalari, uzellar, «Примечания»."
 }
