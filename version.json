@@ -1,8 +1,8 @@
 {
-  "version": "0.99.307",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.307.exe",
-  "sha256": "fe963ac4b84641d36097d0bd3520864b0ff77040eb939b73d392ceb4961ae51f",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.307.zip",
-  "zip_sha256": "53ac54f0b7107eb3fd43eb7c8aa3b683bb61615ccaa83cc0e6b366c5c475e672",
-  "notes": "0.99.307: «Kotlovan» oynasi rasmi ixcham, grunt eni rasmda."
+  "version": "0.99.308",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.308.exe",
+  "sha256": "7d8a659d4627ab3e153fe4890d024adabd10fcded3312e3e24487637643b5471",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.308.zip",
+  "zip_sha256": "216b3267b410bc7c44bd41ccabf9ee910c1b6e45d9a23905992e46a844661832",
+  "notes": "0.99.308: «Kotlovan» — tayyorlov qatlami modelda (material tanlanadi), rasm qiyalikka qarab."
 }
