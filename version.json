@@ -1,8 +1,8 @@
 {
-  "version": "0.99.295",
-  "url": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.295.exe",
-  "sha256": "f2a9fd8740c34e37ba3d7315b249db10b086b46de803d002adaaf588b3879148",
-  "zip": "https://raw.githubusercontent.com/shohruhorozov251-web/BimMuhandis-releases/u/BimMuhandis-0.99.295.zip",
-  "zip_sha256": "4dc925c0ace5e23e2471cd3c008b1cd85e75403acc17d0ab6d790d77c9d9cb7e",
-  "notes": "0.99.295: шайба uzeli namunadagidek (Ød, 0.75d, diametrlar qatori).\r\n0.99.294: Спецификация материалов — «Материалы» ostidagi bo'sh qator chiqmaydi.\r\n0.99.293: Спецификация материалов — «(N шт)» «Материалы» qatorida, hajm ustuni ustida.\r\n0.99.292: Спецификация материалов — «Материалы» va «(N шт)» ustki qatorda.\r\n0.99.291: Спецификация материалов — «(N шт)» hajm ustuni ustida, alohida nom qatorisiz.\r\n0.99.290: kolonna listi sarlavhasi tugun ustida; шайба uzelida «4d».\r\n0.99.289: ВРС barcha elementlar uchun («на жб»), plita+rigel tugunida шайба va otmetka, «Материалы (N шт)».\r\n0.99.288: kolonna muftalari — «Соединитель арматуры1» oilasi, diametr avtomatik (ø28/ø25)."
+  "version": "0.99.296",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.296.exe",
+  "sha256": "29ac6b3640f7f0600815a5f7eb9db41e7193c685a106a67153240993491af800",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.296.zip",
+  "zip_sha256": "c284c17a4234b90a9089a2f53f8cf3690e3d5af79578a5022e6196bdad847dba",
+  "notes": "0.99.296: mufta uzeli namunadagidek; muftalar jadvali 8 mm, o'rtada; uzellar yonma-yon."
 }
