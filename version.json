@@ -1,8 +1,8 @@
 {
-  "version": "0.99.308",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.308.exe",
-  "sha256": "7d8a659d4627ab3e153fe4890d024adabd10fcded3312e3e24487637643b5471",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.308.zip",
-  "zip_sha256": "216b3267b410bc7c44bd41ccabf9ee910c1b6e45d9a23905992e46a844661832",
-  "notes": "0.99.308: «Kotlovan» — tayyorlov qatlami modelda (material tanlanadi), rasm qiyalikka qarab."
+  "version": "0.99.309",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.309.exe",
+  "sha256": "027ada483634fd54731ac09393cfd435b0cdb4dbee6b80dadd4943d94b4a6122",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.309.zip",
+  "zip_sha256": "d496e8ae1238cb53dd1ed3028e486558fc229e8acd3f1ab041336f81f12308e4",
+  "notes": "0.99.309: «Kotlovan» — kesimda o'lchamlar va otkos qiyaligi yozuvi; yaqin fundamentlar bitta kotlovanga birlashtiriladi."
 }
