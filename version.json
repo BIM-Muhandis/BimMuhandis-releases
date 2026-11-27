@@ -1,8 +1,8 @@
 {
-  "version": "0.99.320",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.320.exe",
-  "sha256": "7fccdab3b669dd4a61e62160287f35b7aad877660df6a6c7e721cc952d46fb94",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.320.zip",
-  "zip_sha256": "d777fa4c1bad6b5df186823491cb195b66c675b3c973960c27a2c3bbd309fae5",
-  "notes": "0.99.320: AI yordamchi — kengaytirilgan vositalar va C# kod MCP'siz ham ishlaydi."
+  "version": "0.99.321",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.321.exe",
+  "sha256": "e7f062aa9471346555ff7b044779248983c48bb77157f4b65ac0fc8115a71822",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.321.zip",
+  "zip_sha256": "86b2531459e4f5a25cbee58dee6bc0e5041c4fba521bfe9af7f961ab1e3b6944",
+  "notes": "0.99.321: AI yordamchi — AutoCAD (DWG/DXF) fayllarini tahlil qiladi va asosida Revitda modellashtiradi; tungi mavzuda o'qishga qulay ranglar."
 }
