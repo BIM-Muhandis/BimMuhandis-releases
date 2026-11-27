@@ -1,8 +1,8 @@
 {
-  "version": "0.99.316",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.316.exe",
-  "sha256": "561b5ca061347008eeb60b987d1adff5ae997167d1569a9effb5cffc85d3f2ae",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.316.zip",
-  "zip_sha256": "f57e1520139e0ac45ecae8559ab2d04d14025743dc7050abc275191d8a50ed45",
-  "notes": "0.99.316: AI chat — siz va AI xabarlari turli rangda, sizniki kattaroq shriftda."
+  "version": "0.99.317",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.317.exe",
+  "sha256": "e4446890bbcd42c04acbd619d0f3c6712df47feb48167a35006d64e3093da14c",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.317.zip",
+  "zip_sha256": "b1ec0134fd53e0eefdd24c75f5c9c9a1b7d7025524b8d78f2a65b5b3799ce6f5",
+  "notes": "0.99.317: AI chat — amallar ro'yxati yig'iladigan (strelka bilan ochiladi)."
 }
