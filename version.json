@@ -1,8 +1,8 @@
 {
-  "version": "0.99.314",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.314.exe",
-  "sha256": "56be29455be6e6e6aad2abed961446eabc4b69737b88f2f0b323e3315c7c6ef9",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.314.zip",
-  "zip_sha256": "6d45e7c3e075f7800d504550d8272d8b9160469d2b801adeec31f09a501b5b6b",
-  "notes": "0.99.314: AI yordamchiga fayl yuborish — rasm, PDF, Word, Excel, PowerPoint, matn (📎, sudrab tashlash, Ctrl+V)."
+  "version": "0.99.315",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.315.exe",
+  "sha256": "3629326614eea9fca3415ae9e8589005c693cec373bdfa128f5ce620878701b8",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.315.zip",
+  "zip_sha256": "e15e2b1970d3362e92b11da56123ad837244460ebd8c099ef99ff992a97f3bac",
+  "notes": "0.99.315: AI yordamchi o'z oqimida — AI ishlayotganda Revitda parallel ishlash mumkin."
 }
