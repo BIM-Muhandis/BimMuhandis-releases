@@ -1,8 +1,8 @@
 {
-  "version": "0.99.313",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.313.exe",
-  "sha256": "743b5ce9a40a1f7f734d071a69269c0ecd333b0d4f8f52cb401a3d8e5e1a9988",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.313.zip",
-  "zip_sha256": "b64f304a80df81fa6248c84b2660f35f3793f8db96f68629488b999ce3f935fa",
-  "notes": "0.99.313: Yangi buyruqlar «Serdechnik va peremichka» va «Vipusklar chizmasi» (Konstruksiyalar) — listlar, kesimlar, guruhlangan spetsifikatsiya va ВРС."
+  "version": "0.99.314",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.314.exe",
+  "sha256": "56be29455be6e6e6aad2abed961446eabc4b69737b88f2f0b323e3315c7c6ef9",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.314.zip",
+  "zip_sha256": "6d45e7c3e075f7800d504550d8272d8b9160469d2b801adeec31f09a501b5b6b",
+  "notes": "0.99.314: AI yordamchiga fayl yuborish — rasm, PDF, Word, Excel, PowerPoint, matn (📎, sudrab tashlash, Ctrl+V)."
 }
