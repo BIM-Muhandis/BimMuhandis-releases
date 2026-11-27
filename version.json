@@ -1,8 +1,8 @@
 {
-  "version": "0.99.315",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.315.exe",
-  "sha256": "3629326614eea9fca3415ae9e8589005c693cec373bdfa128f5ce620878701b8",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.315.zip",
-  "zip_sha256": "e15e2b1970d3362e92b11da56123ad837244460ebd8c099ef99ff992a97f3bac",
-  "notes": "0.99.315: AI yordamchi o'z oqimida — AI ishlayotganda Revitda parallel ishlash mumkin."
+  "version": "0.99.316",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.316.exe",
+  "sha256": "561b5ca061347008eeb60b987d1adff5ae997167d1569a9effb5cffc85d3f2ae",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.316.zip",
+  "zip_sha256": "f57e1520139e0ac45ecae8559ab2d04d14025743dc7050abc275191d8a50ed45",
+  "notes": "0.99.316: AI chat — siz va AI xabarlari turli rangda, sizniki kattaroq shriftda."
 }
