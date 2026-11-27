@@ -1,8 +1,8 @@
 {
-  "version": "0.99.318",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.318.exe",
-  "sha256": "b8707102df7726bd825b7ec47e9d2c1e4d34165841fc5b843c2a751dbe3135b1",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.318.zip",
-  "zip_sha256": "acb8ede215eed5fab0e294d129cae61129b5a995974814894dcbb1473fb3cee3",
-  "notes": "0.99.318: AI yordamchi — «Avtomatik» rejim: ruxsat so'ramasdan o'zi ishlaydi."
+  "version": "0.99.319",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.319.exe",
+  "sha256": "a97c23d88aece4513091e926299e0952e42ad468c9172f4b30be4b86433f33bf",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.319.zip",
+  "zip_sha256": "1278c8fc4c7bc43eb39d968f7173f0c2573a0cb96752cce534403b0a734bcbf5",
+  "notes": "0.99.319: AI yordamchi — ~340 MCP vositasi, C# kod, vid/listni ko'rish, chiroyli javoblar."
 }
