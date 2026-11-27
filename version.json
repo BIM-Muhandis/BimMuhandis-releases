@@ -1,8 +1,8 @@
 {
-  "version": "0.99.312",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.312.exe",
-  "sha256": "bbc55bb3911f2d232d458fac18831a9bea50e62caf951997deaf0a6417c81b3b",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.312.zip",
-  "zip_sha256": "fba8a9fdcbabdac137339049074b93e7ecb73cc48e98d96efbd5cead28564eea",
-  "notes": "0.99.312: «Kotlovan» — hajmlar haqiqiy «Формы» bilan (qazilma to'liq to'ldiriladi), jadvalda formaning o'z hajmi."
+  "version": "0.99.313",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.313.exe",
+  "sha256": "743b5ce9a40a1f7f734d071a69269c0ecd333b0d4f8f52cb401a3d8e5e1a9988",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.313.zip",
+  "zip_sha256": "b64f304a80df81fa6248c84b2660f35f3793f8db96f68629488b999ce3f935fa",
+  "notes": "0.99.313: Yangi buyruqlar «Serdechnik va peremichka» va «Vipusklar chizmasi» (Konstruksiyalar) — listlar, kesimlar, guruhlangan spetsifikatsiya va ВРС."
 }
