@@ -1,8 +1,8 @@
 {
-  "version": "0.99.317",
-  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.317.exe",
-  "sha256": "e4446890bbcd42c04acbd619d0f3c6712df47feb48167a35006d64e3093da14c",
-  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.317.zip",
-  "zip_sha256": "b1ec0134fd53e0eefdd24c75f5c9c9a1b7d7025524b8d78f2a65b5b3799ce6f5",
-  "notes": "0.99.317: AI chat — amallar ro'yxati yig'iladigan (strelka bilan ochiladi)."
+  "version": "0.99.318",
+  "url": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-Setup-0.99.318.exe",
+  "sha256": "b8707102df7726bd825b7ec47e9d2c1e4d34165841fc5b843c2a751dbe3135b1",
+  "zip": "https://raw.githubusercontent.com/BIM-Muhandis/BimMuhandis-releases/u/BimMuhandis-0.99.318.zip",
+  "zip_sha256": "acb8ede215eed5fab0e294d129cae61129b5a995974814894dcbb1473fb3cee3",
+  "notes": "0.99.318: AI yordamchi — «Avtomatik» rejim: ruxsat so'ramasdan o'zi ishlaydi."
 }
