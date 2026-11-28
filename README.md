@@ -10,13 +10,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/BIM-Muhandis/BimMuhandis-releases/releases/download/mcp-v1.15.3/BIM_Muhandis_MCP_v1.15.3.zip"><img src="https://img.shields.io/badge/Yuklab%20olish-ZIP%201.15.3-2E7D32?style=for-the-badge&logo=github" alt="ZIP yuklab olish"></a>
+  <a href="https://github.com/BIM-Muhandis/BimMuhandis-releases/releases/download/mcp-v1.15.5/BIM_Muhandis_MCP_v1.15.5.zip"><img src="https://img.shields.io/badge/Yuklab%20olish-ZIP%201.15.5-2E7D32?style=for-the-badge&logo=github" alt="ZIP yuklab olish"></a>
 </p>
 
 <p align="center">
   <a href="https://github.com/BIM-Muhandis/BimMuhandis-releases/stargazers"><img src="https://img.shields.io/github/stars/BIM-Muhandis/BimMuhandis-releases?style=social" alt="GitHub stars"></a>
   <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FBIM-Muhandis%2FBimMuhandis-releases%2Fmain%2Fmcp%2Fstats.json&query=%24.downloads&label=yuklab%20olingan&color=2E7D32" alt="yuklab olingan">
-  <img src="https://img.shields.io/badge/versiya-1.15.3-1F3A5F" alt="versiya">
+  <img src="https://img.shields.io/badge/versiya-1.15.5-1F3A5F" alt="versiya">
   <img src="https://img.shields.io/badge/tool'lar-650%2B-2E7D32" alt="tool'lar">
   <img src="https://img.shields.io/badge/2022–2027-0277BD" alt="2022–2027">
   <img src="https://img.shields.io/badge/Windows-x64-555" alt="Windows">
@@ -76,18 +76,15 @@ Grok, Meta Muse, ChatGPT (veb), Perplexity: MCP oynasi → «AI ilovalar» → *
 **O'chirish:** ZIP'dagi **`BIM Muhandis MCP - O'chirish.exe`** ni ikki marta bosing → «O'chirish». Hammasi o'chadi, BIM Muhandis plaginiga tegilmaydi.  
 <sub>Yangilanish avtomatik: MCP oynasida «Yangilash» → «Yuklanmoqda…» → Revit va Claude'ni qayta oching.</sub>
 
-## Oxirgi versiya — 1.15.3 (28.11.2026)
+## Oxirgi versiya — 1.15.5 (28.11.2026)
 
 BIM Muhandis MCP — AI ilovalar (Claude, ChatGPT, Gemini, Microsoft Copilot, Grok, Kimi, Qwen, Meta Muse, DeepSeek, Perplexity, Cursor, Windsurf, LM Studio, Cline) uchun Revit, AutoCAD / Civil 3D, Navisworks, Tekla Structures, SketchUp, LIRA-SAPR, SCAD Office, SAP2000 / ETABS, Robot, SOLIDWORKS, Photoshop, CorelDRAW 2022–2027 va Word / Excel / PowerPoint ulagichi.
 
 O'rnatish: ZIP'ni chiqarib oling → «BIM Muhandis MCP - O'rnatish.exe» → Claude va Revit'ni qayta oching. AI ilovalar o'zi ulanadi. To'liq o'chirish: «BIM Muhandis MCP - O'chirish.exe».
 
-- SOLIDWORKS → Revit ko'prigi (bridge_sw_to_revit): faol detal/yig'ma Revit'ga aniq geometriya bilan (qattiq jism, kategoriya va joylashuv tanlanadi; hajmlar avtomatik solishtiriladi — SOLIDWORKS 2026 + Revit 2024 da farq 0,02 %)
-- SOLIDWORKS spetsifikatsiyasi / kesish ro'yxati Excel va Word'ga (office_sw_vedomost, sw_vedomost — GOST 2.106 ustunlari)
-- sw_section_properties (kesim yuzasi, inersiya momentlari)
-- sw_self_test — modulni o'z-o'zini sinash (11 qadam, kutilgan hajmlar bilan)
-- dialog kuzatuvchisi: SOLIDWORKS'da oyna ochilib qolsa, 10 daqiqa kutmasdan oyna matni va tugmalari bilan xabar beradi
-- SAT eksportida ACIS versiyasi (sat_version)
-- LIRA: lira_build_frame sxemasi endi hisobga tayyor — plita tugunlari tartibi tuzatildi (ilgari «некорректная геометрия» berardi), plita bikrligi va beton zichligi to'g'ri yoziladi (o'z og'irligi qo'yiladi); lira_analyze hisob bayonnomasidagi xatolarni ko'rsatadi
+- LIRA — yuklar me'yor bo'yicha: lira_norm (SHNQ 2.01.07-21 «Yuklamalar va ta'sirlar»: γf koeffitsiyentlari, xonalar bo'yicha foydali yuklar, qor va shamol, jamlama koeffitsiyentlari ψ, javobgarlik koeffitsiyenti — band raqamlari bilan)
+- lira_build_frame endi yuklar bilan: pol/tom qoplamasi, to'siqlar, foydali yuk (xona turi bo'yicha), qor — 4 ta yuklanish, me'yoriy va hisobiy qiymatlar jadvali; LIRA-SAPR 2024 da hisoblab tekshirilgan (yuklar yig'indisi LIRA jadvali bilan aynan mos)
+- lira_write_text_model: yuklar (tugun, sterjen, plita)
+- yuklanish nomlari lira_table_write load_cases orqali
 
 <sub>© BIM Muhandis jamoasi — Keldiyor Shokir Toshtemirov, Shohruh O'tkir O'rozov</sub>
